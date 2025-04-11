@@ -7,10 +7,311 @@
     "text": "About this site"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Sizing storage for reliable renewable integration\nJournal of Energy Storage, 2020\nDeulkar, V.\nSizing storage for reliable renewable integration: A large deviations approach\nJournal of Energy Storage, 2020\nDeulkar, V.\nStatistical economies of scale in battery sharing\nJournal of Energy Storage, 2021\nDeulkar, V."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Sizing storage for reliable renewable integration\nJournal of Energy Storage, 2020\nDeulkar, V.\nSizing storage for reliable renewable integration: A large deviations approach\nJournal of Energy Storage, 2020\nDeulkar, V.\nStatistical economies of scale in battery sharing\nJournal of Energy Storage, 2021\nDeulkar, V."
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\n\nOptimal Cycling of a Heterogenous Battery Bank via Reinforcement Learning\nIEEE International Conference on Communications, Control, and Computing, 2021\nDeulkar, V.\nPareto-optimal energy sharing between battery-equipped renewable generators\nEleventh ACM International Conference on Future Energy, 2020\nDeulkar, V.\nQuantifying the Decarbonization Potential of Flexible Loads in Residential Buildings\nThe 10th ACM International Conference on Systems for Energy, 2023\nDeulkar, V.\nLow cost hardware-in-loop for automotive application\nInternational Conference on Industrial Instrumentation and Control, 2015\nDeulkar, V.\nHardware in the loop for electronic speed limiter\nIEEE International Transportation Electrification Conference (ITEC), 2015\nDeulkar, V."
+  },
+  {
+    "objectID": "publications.html#other-publications",
+    "href": "publications.html#other-publications",
+    "title": "Publications",
+    "section": "Other Publications",
+    "text": "Other Publications\n\nThe Future of Energy Storage: Lithium-ion batteries is the key to capitalizing on sustainable power\nPlaksha University Blog, 2024\nDeulkar, V."
+  },
+  {
+    "objectID": "publications.html#complete-publication-list",
+    "href": "publications.html#complete-publication-list",
+    "title": "Publications",
+    "section": "Complete Publication List",
+    "text": "Complete Publication List\nFor a complete and up-to-date list of publications, please visit my Google Scholar profile."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Doctor of Philosophy (PhD) in Electrical Engineering\nIndian Institute of Technology Bombay (IIT Bombay)\n2021\nDissertation Focus: Smart grids and battery storage management for renewable energy integration\nMaster of Technology (MTech) in Control and Computing\nIndian Institute of Technology Bombay (IIT Bombay)\nElectrical Engineering Department\nBachelor of Technology (BTech) in Electronics and Communication Engineering\nVisvesvaraya National Institute of Technology (VNIT), Nagpur"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Doctor of Philosophy (PhD) in Electrical Engineering\nIndian Institute of Technology Bombay (IIT Bombay)\n2021\nDissertation Focus: Smart grids and battery storage management for renewable energy integration\nMaster of Technology (MTech) in Control and Computing\nIndian Institute of Technology Bombay (IIT Bombay)\nElectrical Engineering Department\nBachelor of Technology (BTech) in Electronics and Communication Engineering\nVisvesvaraya National Institute of Technology (VNIT), Nagpur"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nAssistant Professor\nPlaksha University\nCurrent Position\n- Conducting research on sustainable energy systems and AI applications - Teaching courses in electrical engineering and machine learning - Contributing to the Indorama Ventures Center for Clean Energy - Guiding student career development\nPostdoctoral Researcher\nManning College of Information and Computer Sciences, University of Massachusetts Amherst\n- Developed AI-driven solutions for enhancing sustainability of energy systems - Researched renewable energy integration and battery storage optimization - Quantified decarbonization potential of flexible loads in residential buildings - Analyzed electricity market dynamics and optimization"
+  },
+  {
+    "objectID": "cv.html#research-grants",
+    "href": "cv.html#research-grants",
+    "title": "Curriculum Vitae",
+    "section": "Research Grants",
+    "text": "Research Grants\nPlaksha University Startup Research Grant\nPrincipal Investigator"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\n\nJournal Articles\n\n“Sizing storage for reliable renewable integration.” Journal of Energy Storage, 2020.\n“Sizing storage for reliable renewable integration: A large deviations approach.” Journal of Energy Storage, 2020.\n“Statistical economies of scale in battery sharing.” Journal of Energy Storage, 2021.\n\n\n\nConference Proceedings\n\n“Optimal Cycling of a Heterogenous Battery Bank via Reinforcement Learning.” IEEE International Conference on Communications, Control, and Computing, 2021.\n“Pareto-optimal energy sharing between battery-equipped renewable generators.” Eleventh ACM International Conference on Future Energy, 2020.\n“Quantifying the Decarbonization Potential of Flexible Loads in Residential Buildings.” The 10th ACM International Conference on Systems for Energy, 2023.\n“Low cost hardware-in-loop for automotive application.” International Conference on Industrial Instrumentation and Control, 2015.\n“Hardware in the loop for electronic speed limiter.” IEEE International Transportation Electrification Conference (ITEC), 2015."
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nSignals and Systems, Plaksha University, Spring 2024\nAdvanced Topics in Machine Learning for Energy Systems, PhD Program"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming Languages: Python, MATLAB, R\nMachine Learning Frameworks: TensorFlow, PyTorch, Scikit-learn\nEnergy Simulation Tools: HOMER, OpenDSS\nMathematical Modeling: Stochastic modeling, Optimization, Control theory"
+  },
+  {
+    "objectID": "cv.html#research-expertise",
+    "href": "cv.html#research-expertise",
+    "title": "Curriculum Vitae",
+    "section": "Research Expertise",
+    "text": "Research Expertise\n\nRenewable energy integration\nBattery storage optimization\nReinforcement learning and machine learning applications\nSmart grid technologies\nEnergy arbitrage and market optimization\nClassical electromagnetics and Weber’s electrodynamics"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish (Professional)\nHindi (Native)"
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable upon request"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I welcome inquiries from prospective students, fellow researchers, and industry partners interested in collaboration opportunities.\nEmail: vivek.deulkar@plaksha.edu.in\nOffice: Plaksha University\nAddress details to be added"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
+    "section": "",
+    "text": "I welcome inquiries from prospective students, fellow researchers, and industry partners interested in collaboration opportunities.\nEmail: vivek.deulkar@plaksha.edu.in\nOffice: Plaksha University\nAddress details to be added"
+  },
+  {
+    "objectID": "contact.html#research-collaboration",
+    "href": "contact.html#research-collaboration",
+    "title": "Contact",
+    "section": "Research Collaboration",
+    "text": "Research Collaboration\nI am open to research collaborations in the following areas:\n\nRenewable energy integration and optimization\nBattery storage systems for grid applications\nAI applications in energy systems\nSustainable and carbon-efficient energy solutions\n\nIf you are interested in collaborating on research projects or exploring potential partnerships, please email me with a brief description of your interests and background."
+  },
+  {
+    "objectID": "contact.html#prospective-students",
+    "href": "contact.html#prospective-students",
+    "title": "Contact",
+    "section": "Prospective Students",
+    "text": "Prospective Students\nIf you are interested in joining my research group as a PhD student or for a research project, please include the following information in your email:\n\nYour academic background and CV\nResearch interests and how they align with my work\nAny relevant experience in energy systems, machine learning, or related fields"
+  },
+  {
+    "objectID": "contact.html#connect-online",
+    "href": "contact.html#connect-online",
+    "title": "Contact",
+    "section": "Connect Online",
+    "text": "Connect Online\n\nGoogle Scholar\nLinkedIn (Add your LinkedIn profile URL)\nResearchGate (Add your ResearchGate profile URL)"
+  },
+  {
+    "objectID": "contact.html#media-inquiries",
+    "href": "contact.html#media-inquiries",
+    "title": "Contact",
+    "section": "Media Inquiries",
+    "text": "Media Inquiries\nFor media inquiries or speaking engagements, please contact me directly via email."
+  },
+  {
+    "objectID": "blog/posts/energy-storage/index.html",
+    "href": "blog/posts/energy-storage/index.html",
+    "title": "The Future of Energy Storage",
+    "section": "",
+    "text": "The global transition to renewable energy sources presents unique challenges due to the intermittent nature of solar and wind power. As we move away from fossil fuels, the need for efficient and reliable energy storage solutions becomes increasingly critical. This post explores how lithium-ion batteries are playing a pivotal role in this transition and their potential to revolutionize our energy systems."
+  },
+  {
+    "objectID": "blog/posts/energy-storage/index.html#introduction",
+    "href": "blog/posts/energy-storage/index.html#introduction",
+    "title": "The Future of Energy Storage",
+    "section": "",
+    "text": "The global transition to renewable energy sources presents unique challenges due to the intermittent nature of solar and wind power. As we move away from fossil fuels, the need for efficient and reliable energy storage solutions becomes increasingly critical. This post explores how lithium-ion batteries are playing a pivotal role in this transition and their potential to revolutionize our energy systems."
+  },
+  {
+    "objectID": "blog/posts/energy-storage/index.html#the-challenge-of-intermittency",
+    "href": "blog/posts/energy-storage/index.html#the-challenge-of-intermittency",
+    "title": "The Future of Energy Storage",
+    "section": "The Challenge of Intermittency",
+    "text": "The Challenge of Intermittency\nRenewable energy sources like solar and wind are inherently variable:\n\nSolar power generation drops at night and during cloudy weather\nWind power fluctuates based on atmospheric conditions\nBoth can experience seasonal variations in output\n\nThis intermittency creates a fundamental mismatch between energy supply and demand, potentially leading to grid instability and reliability issues. Energy storage provides the solution to this challenge by:\n\nStoring excess energy during high production periods\nReleasing stored energy during low production or high demand periods\nSmoothing out fluctuations to maintain grid stability"
+  },
+  {
+    "objectID": "blog/posts/energy-storage/index.html#lithium-ion-technology-current-state-and-future-potential",
+    "href": "blog/posts/energy-storage/index.html#lithium-ion-technology-current-state-and-future-potential",
+    "title": "The Future of Energy Storage",
+    "section": "Lithium-ion Technology: Current State and Future Potential",
+    "text": "Lithium-ion Technology: Current State and Future Potential\nLithium-ion batteries have emerged as the leading technology for grid-scale energy storage due to their:\n\nHigh energy density\nDecreasing costs (over 90% reduction in the past decade)\nImproving cycle life and performance\nScalability from residential to utility applications\n\nRecent advancements in lithium-ion technology have addressed many early concerns about cost, lifespan, and safety. Current research focuses on:\n\nImproving energy density through new cathode and anode materials\nExtending cycle life to match the 20+ year lifespan of renewable installations\nEnhancing safety features and thermal management\nReducing dependency on rare or geopolitically sensitive materials"
+  },
+  {
+    "objectID": "blog/posts/energy-storage/index.html#optimizing-battery-storage-systems",
+    "href": "blog/posts/energy-storage/index.html#optimizing-battery-storage-systems",
+    "title": "The Future of Energy Storage",
+    "section": "Optimizing Battery Storage Systems",
+    "text": "Optimizing Battery Storage Systems\nMy research at Plaksha University focuses on developing strategies to optimize battery storage deployment and operation. Key aspects include:\n\nStrategic Sizing\nProperly sizing battery systems is crucial for cost-effectiveness. Our work applies large deviations theory to determine optimal storage capacity that balances reliability and economic considerations.\n\n\nIntelligent Control\nAdvanced reinforcement learning algorithms can optimize battery charging and discharging cycles, maximizing both battery lifespan and economic value through:\n\nEnergy arbitrage (buying/storing when prices are low, selling when high)\nGrid services provision (frequency regulation, voltage support)\nPeak demand reduction\nRenewable integration support\n\n\n\nShared Battery Resources\nOur research on statistical economies of scale in battery sharing demonstrates that communities can achieve significant cost savings through shared battery resources compared to individual installations."
+  },
+  {
+    "objectID": "blog/posts/energy-storage/index.html#conclusion",
+    "href": "blog/posts/energy-storage/index.html#conclusion",
+    "title": "The Future of Energy Storage",
+    "section": "Conclusion",
+    "text": "Conclusion\nLithium-ion batteries represent a critical enabling technology for our renewable energy future. While challenges remain, the rapid pace of technological improvement and cost reduction suggests that widespread deployment of energy storage will accelerate in the coming years. As researchers continue to optimize these systems, we move closer to a sustainable, reliable, and efficient clean energy grid.\nI welcome your thoughts and questions on this topic. Feel free to reach out via the contact page to discuss further."
+  },
+  {
+    "objectID": "blog/posts/post-with-code/index.html",
+    "href": "blog/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n\n\nReuseCC BY-NC-SA 4.0"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog where I share insights on sustainable energy systems, battery technology, renewable integration, and the application of artificial intelligence in addressing our energy challenges.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n \n\n\nnews\n\ncode\n\nanalysis\n\n\n \n\n\n\n\n\nApr 11, 2025\nVivek Deulkar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n \n\n\nnews\n\n\n \n\n\n\n\n\nApr 8, 2025\nDr. Vivek Deulkar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Future of Energy Storage\nLithium-ion batteries and their role in sustainable power\n\n \n\n\nEnergy Storage\n\nSustainability\n\nBattery Technology\n\n\n \n\n\n\n\n\nFeb 15, 2024\nDr. Vivek Deulkar\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\nReuseCC BY-NC-SA 4.0"
+  },
+  {
+    "objectID": "blog/about.html",
+    "href": "blog/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "drvivek-site",
+    "title": "Dr. Vivek Deulkar",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am an Assistant Professor at Plaksha University, specializing in electrical engineering with a focus on sustainable energy systems. My research interests include renewable energy integration, battery storage optimization, and applying Artificial Intelligence to energy systems."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Dr. Vivek Deulkar",
+    "section": "",
+    "text": "I am an Assistant Professor at Plaksha University, specializing in electrical engineering with a focus on sustainable energy systems. My research interests include renewable energy integration, battery storage optimization, and applying Artificial Intelligence to energy systems."
+  },
+  {
+    "objectID": "index.html#academic-background",
+    "href": "index.html#academic-background",
+    "title": "Dr. Vivek Deulkar",
+    "section": "Academic Background",
+    "text": "Academic Background\n\nPh.D. in Electrical Engineering - Indian Institute of Technology Bombay (2021)\nM.Tech. in Control and Computing - Indian Institute of Technology Bombay\nB.Tech. in Electronics and Communication Engineering - Visvesvaraya National Institute of Technology (VNIT), Nagpur"
+  },
+  {
+    "objectID": "index.html#research-focus",
+    "href": "index.html#research-focus",
+    "title": "Dr. Vivek Deulkar",
+    "section": "Research Focus",
+    "text": "Research Focus\nMy work centers on developing innovative solutions for:\n\nManaging uncertainties in renewable energy through advanced battery storage systems\nApplying Reinforcement Learning and Machine Learning to energy optimization\nExploring sustainable and carbon-efficient energy systems\nIntegrating theoretical frameworks from Classical Electromagnetics and Weber’s Electrodynamics"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Dr. Vivek Deulkar",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nPrior to joining Plaksha University, I conducted postdoctoral research at the Manning College of Information and Computer Sciences, University of Massachusetts Amherst, where I focused on developing AI-driven solutions for sustainable energy systems.\nI am currently affiliated with the Indorama Ventures Center for Clean Energy at Plaksha University, contributing to research on sustainable carbon-efficient energy systems."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on addressing critical challenges in sustainable energy through the integration of advanced computational techniques and energy storage solutions. My primary areas of interest include:\n\n\nI develop strategies to effectively manage the inherent uncertainties in renewable energy sources through optimized battery storage systems. This research aims to enhance grid reliability while maximizing the utilization of clean energy resources.\n\n\n\nI apply sophisticated Reinforcement Learning and Machine Learning techniques to solve complex challenges in energy systems, including:\n\nEnergy arbitrage optimization\nPredictive modeling for renewable energy generation\nAdaptive control strategies for heterogeneous battery systems\nDecision-making under uncertainty for energy management\n\n\n\n\nWorking with the Indorama Ventures Center for Clean Energy at Plaksha University, I explore comprehensive approaches to developing sustainable, carbon-efficient energy solutions that can be scaled and implemented in real-world settings.\n\n\n\nMy research is grounded in strong theoretical foundations, including:\n\nClassical Electromagnetics\nWeber’s Electrodynamics\nStochastic modeling and applied probability\nSequential decision-making and optimization\nControl theory"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on addressing critical challenges in sustainable energy through the integration of advanced computational techniques and energy storage solutions. My primary areas of interest include:\n\n\nI develop strategies to effectively manage the inherent uncertainties in renewable energy sources through optimized battery storage systems. This research aims to enhance grid reliability while maximizing the utilization of clean energy resources.\n\n\n\nI apply sophisticated Reinforcement Learning and Machine Learning techniques to solve complex challenges in energy systems, including:\n\nEnergy arbitrage optimization\nPredictive modeling for renewable energy generation\nAdaptive control strategies for heterogeneous battery systems\nDecision-making under uncertainty for energy management\n\n\n\n\nWorking with the Indorama Ventures Center for Clean Energy at Plaksha University, I explore comprehensive approaches to developing sustainable, carbon-efficient energy solutions that can be scaled and implemented in real-world settings.\n\n\n\nMy research is grounded in strong theoretical foundations, including:\n\nClassical Electromagnetics\nWeber’s Electrodynamics\nStochastic modeling and applied probability\nSequential decision-making and optimization\nControl theory"
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nOptimal Battery Storage Management for Renewable Integration\nThis project focuses on developing advanced algorithms for sizing and managing battery storage systems to reliably integrate renewable energy sources into the grid. We use large deviations theory and stochastic optimization to address the variability and uncertainty in renewable generation.\n\n\nAI-Driven Energy Arbitrage\nWe are developing reinforcement learning algorithms to optimize energy trading decisions in electricity markets, with particular attention to battery-equipped renewable generators. This research explores the potential economic benefits of energy storage while supporting grid stability.\n\n\nDecarbonization Through Flexible Loads\nBuilding on my postdoctoral research, this project quantifies and enhances the decarbonization potential of flexible loads in residential buildings, contributing to more sustainable energy consumption patterns."
+  },
+  {
+    "objectID": "research.html#collaborations",
+    "href": "research.html#collaborations",
+    "title": "Research",
+    "section": "Collaborations",
+    "text": "Collaborations\nI actively seek collaborations with researchers, industry partners, and policymakers interested in advancing sustainable energy solutions. If you are interested in potential research partnerships, please contact me."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Spring 2024\nThis course introduces fundamental concepts in signals and systems, providing students with the mathematical tools and techniques necessary for analyzing and processing signals. Topics include:\n\nContinuous-time and discrete-time signals\nLinear time-invariant systems\nFourier series and Fourier transform\nLaplace transform\nZ-transform\nFilter design and applications\n\n\n\n\nPhD Program\nThis advanced course explores the application of machine learning techniques to energy systems, with a focus on renewable energy integration and optimization. Students learn to:\n\nApply reinforcement learning to energy optimization problems\nDevelop predictive models for renewable energy generation\nDesign control strategies for battery storage systems\nAnalyze energy market data and optimize trading strategies"
+  },
+  {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Spring 2024\nThis course introduces fundamental concepts in signals and systems, providing students with the mathematical tools and techniques necessary for analyzing and processing signals. Topics include:\n\nContinuous-time and discrete-time signals\nLinear time-invariant systems\nFourier series and Fourier transform\nLaplace transform\nZ-transform\nFilter design and applications\n\n\n\n\nPhD Program\nThis advanced course explores the application of machine learning techniques to energy systems, with a focus on renewable energy integration and optimization. Students learn to:\n\nApply reinforcement learning to energy optimization problems\nDevelop predictive models for renewable energy generation\nDesign control strategies for battery storage systems\nAnalyze energy market data and optimize trading strategies"
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nMy teaching approach emphasizes:\n\nConnecting Theory to Practice: Bridging theoretical concepts with real-world applications to enhance student understanding and motivation.\nInteractive Learning: Encouraging active participation through discussions, problem-solving sessions, and practical assignments.\nResearch Integration: Incorporating cutting-edge research findings into course content to expose students to the latest developments in the field.\nInterdisciplinary Perspectives: Highlighting connections between electrical engineering, computer science, economics, and environmental studies to foster holistic understanding of energy systems."
+  },
+  {
+    "objectID": "teaching.html#student-supervision",
+    "href": "teaching.html#student-supervision",
+    "title": "Teaching",
+    "section": "Student Supervision",
+    "text": "Student Supervision\nI supervise graduate students working on topics related to:\n\nBattery storage optimization\nRenewable energy integration\nMachine learning applications in energy systems\nSmart grid technologies\n\nIf you are interested in working with me as a PhD student or for a research project, please contact me to discuss potential research directions."
   }
 ]

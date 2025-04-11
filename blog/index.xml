@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Dr. Vivek Deulkar</title>
+<link>https://vivekdeulkar.github.io/blog/</link>
+<atom:link href="https://vivekdeulkar.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.7.6</generator>
+<lastBuildDate>Thu, 10 Apr 2025 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Vivek Deulkar</dc:creator>
+  <link>https://vivekdeulkar.github.io/blog/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://vivekdeulkar.github.io/blog/posts/post-with-code/</guid>
+  <pubDate>Thu, 10 Apr 2025 18:30:00 GMT</pubDate>
+  <media:content url="https://vivekdeulkar.github.io/blog/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Dr. Vivek Deulkar</dc:creator>
+  <link>https://vivekdeulkar.github.io/blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://vivekdeulkar.github.io/blog/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+  <category>news</category>
+  <guid>https://vivekdeulkar.github.io/blog/posts/welcome/</guid>
+  <pubDate>Mon, 07 Apr 2025 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>The Future of Energy Storage</title>
+  <dc:creator>Dr. Vivek Deulkar</dc:creator>
+  <link>https://vivekdeulkar.github.io/blog/posts/energy-storage/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>The global transition to renewable energy sources presents unique challenges due to the intermittent nature of solar and wind power. As we move away from fossil fuels, the need for efficient and reliable energy storage solutions becomes increasingly critical. This post explores how lithium-ion batteries are playing a pivotal role in this transition and their potential to revolutionize our energy systems.</p>
+</section>
+<section id="the-challenge-of-intermittency" class="level2">
+<h2 class="anchored" data-anchor-id="the-challenge-of-intermittency">The Challenge of Intermittency</h2>
+<p>Renewable energy sources like solar and wind are inherently variable:</p>
+<ul>
+<li>Solar power generation drops at night and during cloudy weather</li>
+<li>Wind power fluctuates based on atmospheric conditions</li>
+<li>Both can experience seasonal variations in output</li>
+</ul>
+<p>This intermittency creates a fundamental mismatch between energy supply and demand, potentially leading to grid instability and reliability issues. Energy storage provides the solution to this challenge by:</p>
+<ol type="1">
+<li>Storing excess energy during high production periods</li>
+<li>Releasing stored energy during low production or high demand periods</li>
+<li>Smoothing out fluctuations to maintain grid stability</li>
+</ol>
+</section>
+<section id="lithium-ion-technology-current-state-and-future-potential" class="level2">
+<h2 class="anchored" data-anchor-id="lithium-ion-technology-current-state-and-future-potential">Lithium-ion Technology: Current State and Future Potential</h2>
+<p>Lithium-ion batteries have emerged as the leading technology for grid-scale energy storage due to their:</p>
+<ul>
+<li>High energy density</li>
+<li>Decreasing costs (over 90% reduction in the past decade)</li>
+<li>Improving cycle life and performance</li>
+<li>Scalability from residential to utility applications</li>
+</ul>
+<p>Recent advancements in lithium-ion technology have addressed many early concerns about cost, lifespan, and safety. Current research focuses on:</p>
+<ul>
+<li>Improving energy density through new cathode and anode materials</li>
+<li>Extending cycle life to match the 20+ year lifespan of renewable installations</li>
+<li>Enhancing safety features and thermal management</li>
+<li>Reducing dependency on rare or geopolitically sensitive materials</li>
+</ul>
+</section>
+<section id="optimizing-battery-storage-systems" class="level2">
+<h2 class="anchored" data-anchor-id="optimizing-battery-storage-systems">Optimizing Battery Storage Systems</h2>
+<p>My research at Plaksha University focuses on developing strategies to optimize battery storage deployment and operation. Key aspects include:</p>
+<section id="strategic-sizing" class="level3">
+<h3 class="anchored" data-anchor-id="strategic-sizing">Strategic Sizing</h3>
+<p>Properly sizing battery systems is crucial for cost-effectiveness. Our work applies large deviations theory to determine optimal storage capacity that balances reliability and economic considerations.</p>
+</section>
+<section id="intelligent-control" class="level3">
+<h3 class="anchored" data-anchor-id="intelligent-control">Intelligent Control</h3>
+<p>Advanced reinforcement learning algorithms can optimize battery charging and discharging cycles, maximizing both battery lifespan and economic value through:</p>
+<ul>
+<li>Energy arbitrage (buying/storing when prices are low, selling when high)</li>
+<li>Grid services provision (frequency regulation, voltage support)</li>
+<li>Peak demand reduction</li>
+<li>Renewable integration support</li>
+</ul>
+</section>
+<section id="shared-battery-resources" class="level3">
+<h3 class="anchored" data-anchor-id="shared-battery-resources">Shared Battery Resources</h3>
+<p>Our research on statistical economies of scale in battery sharing demonstrates that communities can achieve significant cost savings through shared battery resources compared to individual installations.</p>
+</section>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>Lithium-ion batteries represent a critical enabling technology for our renewable energy future. While challenges remain, the rapid pace of technological improvement and cost reduction suggests that widespread deployment of energy storage will accelerate in the coming years. As researchers continue to optimize these systems, we move closer to a sustainable, reliable, and efficient clean energy grid.</p>
+<p>I welcome your thoughts and questions on this topic. Feel free to reach out via the <a href="../../contact.qmd">contact page</a> to discuss further.</p>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+  <category>Energy Storage</category>
+  <category>Sustainability</category>
+  <category>Battery Technology</category>
+  <guid>https://vivekdeulkar.github.io/blog/posts/energy-storage/</guid>
+  <pubDate>Wed, 14 Feb 2024 18:30:00 GMT</pubDate>
+  <media:content url="https://vivekdeulkar.github.io/blog/posts/energy-storage/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

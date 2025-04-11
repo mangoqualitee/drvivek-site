@@ -1,1 +1,36 @@
-/* css styles */
+/* Custom styles for Dr. Deulkar's website */
+
+/* Global styles */
+.profile-image {
+  border-radius: 50%;
+  max-width: 200px;
+}
+
+.publication-item {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.publication-title {
+  font-weight: bold;
+}
+
+.publication-journal {
+  font-style: italic;
+}
+
+.research-area {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 5px;
+  margin-bottom: 2rem;
+  border-left: 4px solid #1F4E79;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .profile-image {
+    max-width: 150px;
+  }
+}

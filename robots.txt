@@ -1,1 +1,1 @@
-Sitemap: git@github-vishalpaudel:mangoqualitee/drvivek-site.git/sitemap.xml
+Sitemap: https://vivekdeulkar.github.io/sitemap.xml

@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>git@github-vishalpaudel:mangoqualitee/drvivek-site.git/about.html</loc>
+    <loc>https://vivekdeulkar.github.io/about.html</loc>
     <lastmod>2025-04-11T04:04:21.969Z</lastmod>
   </url>
   <url>
-    <loc>git@github-vishalpaudel:mangoqualitee/drvivek-site.git/index.html</loc>
-    <lastmod>2025-04-11T04:04:21.969Z</lastmod>
+    <loc>https://vivekdeulkar.github.io/publications.html</loc>
+    <lastmod>2025-04-11T04:37:53.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivekdeulkar.github.io/cv.html</loc>
+    <lastmod>2025-04-11T04:21:21.145Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivekdeulkar.github.io/contact.html</loc>
+    <lastmod>2025-04-11T04:21:30.636Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivekdeulkar.github.io/blog/posts/energy-storage/index.html</loc>
+    <lastmod>2025-04-11T04:45:58.946Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivekdeulkar.github.io/blog/posts/post-with-code/index.html</loc>
+    <lastmod>2025-04-11T04:43:33.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivekdeulkar.github.io/blog/index.html</loc>
+    <lastmod>2025-04-11T04:40:48.460Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivekdeulkar.github.io/blog/posts/welcome/index.html</loc>
+    <lastmod>2025-04-11T04:42:51.721Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivekdeulkar.github.io/blog/about.html</loc>
+    <lastmod>2025-04-11T04:40:30.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivekdeulkar.github.io/index.html</loc>
+    <lastmod>2025-04-11T04:33:12.763Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivekdeulkar.github.io/research.html</loc>
+    <lastmod>2025-04-11T04:20:49.753Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vivekdeulkar.github.io/teaching.html</loc>
+    <lastmod>2025-04-11T04:21:08.425Z</lastmod>
   </url>
 </urlset>
