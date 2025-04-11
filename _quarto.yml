@@ -7,6 +7,7 @@ project:
 
 website:
   title: "Dr. Vivek Deulkar"
+  site-url: https://vivekdeulkar.github.io/
   navbar:
     logo: images/plaksha-logo.png
     left:
@@ -18,8 +19,8 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
-      # - href: blog/index.qmd
-      #   text: Blog
+      - href: blog/index.qmd
+        text: Blog
       - href: cv.qmd
         text: CV
       - href: contact.qmd

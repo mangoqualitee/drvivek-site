@@ -8,7 +8,7 @@
 /.condaenv/
 *_cache/
 /env/
-/_site/
+**/_site/
 /.venv/
 
 
