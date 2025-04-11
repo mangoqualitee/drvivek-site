@@ -1,1 +1,79 @@
-/* css styles */
+/* Custom styles for Dr. Deulkar's website */
+
+/* Global styles */
+body {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+  color: #1F4E79;
+  margin-top: 1.5rem;
+}
+
+a {
+  color: #0072B5;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Custom classes */
+.profile-image {
+  border-radius: 50%;
+  max-width: 200px;
+}
+
+.publication-item {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.publication-title {
+  font-weight: bold;
+}
+
+.publication-journal {
+  font-style: italic;
+}
+
+.research-area {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 5px;
+  margin-bottom: 2rem;
+  border-left: 4px solid #1F4E79;
+}
+
+/* Footer styling */
+footer {
+  background-color: #f8f9fa;
+  padding: 1.5rem 0;
+  margin-top: 3rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .profile-image {
+    max-width: 150px;
+  }
+}
+
+/* Blog specific styles */
+.quarto-listing-category {
+  background-color: #eef7fa;
+  border-radius: 4px;
+  padding: 0.25rem 0.5rem;
+}
+
+.listing-date {
+  color: #666;
+}
+
+.quarto-title-banner {
+  background-color: #1F4E79;
+  color: white;
+}

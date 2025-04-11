@@ -1,0 +1,84 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Academic and Professional Background"
+---
+
+## Education
+
+**Doctor of Philosophy (PhD) in Electrical Engineering**  
+Indian Institute of Technology Bombay (IIT Bombay)  
+*2021*  
+*Dissertation Focus:* Smart grids and battery storage management for renewable energy integration
+
+**Master of Technology (MTech) in Control and Computing**  
+Indian Institute of Technology Bombay (IIT Bombay)  
+*Electrical Engineering Department*
+
+**Bachelor of Technology (BTech) in Electronics and Communication Engineering**  
+Visvesvaraya National Institute of Technology (VNIT), Nagpur
+
+## Professional Experience
+
+**Assistant Professor**  
+Plaksha University  
+*Current Position*  
+- Conducting research on sustainable energy systems and AI applications
+- Teaching courses in electrical engineering and machine learning
+- Contributing to the Indorama Ventures Center for Clean Energy
+- Guiding student career development
+
+**Postdoctoral Researcher**  
+Manning College of Information and Computer Sciences, University of Massachusetts Amherst  
+- Developed AI-driven solutions for enhancing sustainability of energy systems
+- Researched renewable energy integration and battery storage optimization
+- Quantified decarbonization potential of flexible loads in residential buildings
+- Analyzed electricity market dynamics and optimization
+
+## Research Grants
+
+**Plaksha University Startup Research Grant**  
+*Principal Investigator*
+
+## Publications
+
+### Journal Articles
+- "Sizing storage for reliable renewable integration." Journal of Energy Storage, 2020.
+- "Sizing storage for reliable renewable integration: A large deviations approach." Journal of Energy Storage, 2020.
+- "Statistical economies of scale in battery sharing." Journal of Energy Storage, 2021.
+
+### Conference Proceedings
+- "Optimal Cycling of a Heterogenous Battery Bank via Reinforcement Learning." IEEE International Conference on Communications, Control, and Computing, 2021.
+- "Pareto-optimal energy sharing between battery-equipped renewable generators." Eleventh ACM International Conference on Future Energy, 2020.
+- "Quantifying the Decarbonization Potential of Flexible Loads in Residential Buildings." The 10th ACM International Conference on Systems for Energy, 2023.
+- "Low cost hardware-in-loop for automotive application." International Conference on Industrial Instrumentation and Control, 2015.
+- "Hardware in the loop for electronic speed limiter." IEEE International Transportation Electrification Conference (ITEC), 2015.
+
+## Teaching Experience
+
+- Signals and Systems, Plaksha University, Spring 2024
+- Advanced Topics in Machine Learning for Energy Systems, PhD Program
+
+## Technical Skills
+
+- **Programming Languages:** Python, MATLAB, R
+- **Machine Learning Frameworks:** TensorFlow, PyTorch, Scikit-learn
+- **Energy Simulation Tools:** HOMER, OpenDSS
+- **Mathematical Modeling:** Stochastic modeling, Optimization, Control theory
+
+## Research Expertise
+
+- Renewable energy integration
+- Battery storage optimization
+- Reinforcement learning and machine learning applications
+- Smart grid technologies
+- Energy arbitrage and market optimization
+- Classical electromagnetics and Weber's electrodynamics
+
+## Languages
+
+- English (Professional)
+- Hindi (Native)
+
+## References
+
+Available upon request

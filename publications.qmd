@@ -1,0 +1,52 @@
+---
+title: "Publications"
+subtitle: "Academic Papers & Research Outputs"
+bibliography: bibliography.bib
+csl: ieee.csl
+---
+
+## Journal Articles
+
+- **Sizing storage for reliable renewable integration**  
+  *Journal of Energy Storage*, 2020  
+  Deulkar, V.
+
+- **Sizing storage for reliable renewable integration: A large deviations approach**  
+  *Journal of Energy Storage*, 2020  
+  Deulkar, V.
+
+- **Statistical economies of scale in battery sharing**  
+  *Journal of Energy Storage*, 2021  
+  Deulkar, V.
+
+## Conference Papers
+
+- **Optimal Cycling of a Heterogenous Battery Bank via Reinforcement Learning**  
+  *IEEE International Conference on Communications, Control, and Computing*, 2021  
+  Deulkar, V.
+
+- **Pareto-optimal energy sharing between battery-equipped renewable generators**  
+  *Eleventh ACM International Conference on Future Energy*, 2020  
+  Deulkar, V.
+
+- **Quantifying the Decarbonization Potential of Flexible Loads in Residential Buildings**  
+  *The 10th ACM International Conference on Systems for Energy*, 2023  
+  Deulkar, V.
+
+- **Low cost hardware-in-loop for automotive application**  
+  *International Conference on Industrial Instrumentation and Control*, 2015  
+  Deulkar, V.
+
+- **Hardware in the loop for electronic speed limiter**  
+  *IEEE International Transportation Electrification Conference (ITEC)*, 2015  
+  Deulkar, V.
+
+## Other Publications
+
+- **The Future of Energy Storage: Lithium-ion batteries is the key to capitalizing on sustainable power**  
+  *Plaksha University Blog*, 2024  
+  Deulkar, V.
+
+## Complete Publication List
+
+For a complete and up-to-date list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID).

@@ -1,0 +1,42 @@
+---
+title: "Contact"
+subtitle: "Get in Touch"
+---
+
+## Contact Information
+
+I welcome inquiries from prospective students, fellow researchers, and industry partners interested in collaboration opportunities.
+
+**Email:** [vivek.deulkar@plaksha.edu.in](mailto:vivek.deulkar@plaksha.edu.in)
+
+**Office:** Plaksha University  
+*Address details to be added*
+
+## Research Collaboration
+
+I am open to research collaborations in the following areas:
+
+- Renewable energy integration and optimization
+- Battery storage systems for grid applications
+- AI applications in energy systems
+- Sustainable and carbon-efficient energy solutions
+
+If you are interested in collaborating on research projects or exploring potential partnerships, please email me with a brief description of your interests and background.
+
+## Prospective Students
+
+If you are interested in joining my research group as a PhD student or for a research project, please include the following information in your email:
+
+1. Your academic background and CV
+2. Research interests and how they align with my work
+3. Any relevant experience in energy systems, machine learning, or related fields
+
+## Connect Online
+
+- [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+- [LinkedIn](#) *(Add your LinkedIn profile URL)*
+- [ResearchGate](#) *(Add your ResearchGate profile URL)*
+
+## Media Inquiries
+
+For media inquiries or speaking engagements, please contact me directly via email.

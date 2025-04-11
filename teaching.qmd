@@ -1,0 +1,51 @@
+---
+title: "Teaching"
+subtitle: "Courses & Educational Activities"
+---
+
+## Current Courses
+
+### Signals and Systems
+**Spring 2024**
+
+This course introduces fundamental concepts in signals and systems, providing students with the mathematical tools and techniques necessary for analyzing and processing signals. Topics include:
+
+- Continuous-time and discrete-time signals
+- Linear time-invariant systems
+- Fourier series and Fourier transform
+- Laplace transform
+- Z-transform
+- Filter design and applications
+
+### Advanced Topics in Machine Learning for Energy Systems
+**PhD Program**
+
+This advanced course explores the application of machine learning techniques to energy systems, with a focus on renewable energy integration and optimization. Students learn to:
+
+- Apply reinforcement learning to energy optimization problems
+- Develop predictive models for renewable energy generation
+- Design control strategies for battery storage systems
+- Analyze energy market data and optimize trading strategies
+
+## Teaching Philosophy
+
+My teaching approach emphasizes:
+
+1. **Connecting Theory to Practice**: Bridging theoretical concepts with real-world applications to enhance student understanding and motivation.
+
+2. **Interactive Learning**: Encouraging active participation through discussions, problem-solving sessions, and practical assignments.
+
+3. **Research Integration**: Incorporating cutting-edge research findings into course content to expose students to the latest developments in the field.
+
+4. **Interdisciplinary Perspectives**: Highlighting connections between electrical engineering, computer science, economics, and environmental studies to foster holistic understanding of energy systems.
+
+## Student Supervision
+
+I supervise graduate students working on topics related to:
+
+- Battery storage optimization
+- Renewable energy integration
+- Machine learning applications in energy systems
+- Smart grid technologies
+
+If you are interested in working with me as a PhD student or for a research project, please [contact me](contact.qmd) to discuss potential research directions.

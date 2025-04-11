@@ -1,7 +1,40 @@
 ---
-title: "drvivek-site"
+title: "Dr. Vivek Deulkar"
+subtitle: "Assistant Professor, Plaksha University"
+page-layout: full
+about:
+  template: jolla
+  image: images/profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:vivek.deulkar@plaksha.edu.in
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am an Assistant Professor at Plaksha University, specializing in electrical engineering with a focus on sustainable energy systems. My research interests include renewable energy integration, battery storage optimization, and applying Artificial Intelligence to energy systems.
+
+## Academic Background
+
+- **Ph.D. in Electrical Engineering** - Indian Institute of Technology Bombay (2021)
+- **M.Tech. in Control and Computing** - Indian Institute of Technology Bombay
+- **B.Tech. in Electronics and Communication Engineering** - Visvesvaraya National Institute of Technology (VNIT), Nagpur
+
+## Research Focus
+
+My work centers on developing innovative solutions for:
+
+- Managing uncertainties in renewable energy through advanced battery storage systems
+- Applying Reinforcement Learning and Machine Learning to energy optimization
+- Exploring sustainable and carbon-efficient energy systems
+- Integrating theoretical frameworks from Classical Electromagnetics and Weber's Electrodynamics
+
+## Professional Experience
+
+Prior to joining Plaksha University, I conducted postdoctoral research at the Manning College of Information and Computer Sciences, University of Massachusetts Amherst, where I focused on developing AI-driven solutions for sustainable energy systems.
+
+I am currently affiliated with the Indorama Ventures Center for Clean Energy at Plaksha University, contributing to research on sustainable carbon-efficient energy systems.

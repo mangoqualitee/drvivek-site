@@ -1,0 +1,53 @@
+---
+title: "Research"
+subtitle: "Sustainable Energy Systems & AI Applications"
+---
+
+## Research Interests
+
+My research focuses on addressing critical challenges in sustainable energy through the integration of advanced computational techniques and energy storage solutions. My primary areas of interest include:
+
+### Battery Storage for Renewable Energy Integration
+
+I develop strategies to effectively manage the inherent uncertainties in renewable energy sources through optimized battery storage systems. This research aims to enhance grid reliability while maximizing the utilization of clean energy resources.
+
+### AI Applications in Energy Systems
+
+I apply sophisticated Reinforcement Learning and Machine Learning techniques to solve complex challenges in energy systems, including:
+
+- Energy arbitrage optimization
+- Predictive modeling for renewable energy generation
+- Adaptive control strategies for heterogeneous battery systems
+- Decision-making under uncertainty for energy management
+
+### Carbon-Efficient Energy Systems
+
+Working with the Indorama Ventures Center for Clean Energy at Plaksha University, I explore comprehensive approaches to developing sustainable, carbon-efficient energy solutions that can be scaled and implemented in real-world settings.
+
+### Theoretical Foundations
+
+My research is grounded in strong theoretical foundations, including:
+
+- Classical Electromagnetics
+- Weber's Electrodynamics
+- Stochastic modeling and applied probability
+- Sequential decision-making and optimization
+- Control theory
+
+## Current Projects
+
+### Optimal Battery Storage Management for Renewable Integration
+
+This project focuses on developing advanced algorithms for sizing and managing battery storage systems to reliably integrate renewable energy sources into the grid. We use large deviations theory and stochastic optimization to address the variability and uncertainty in renewable generation.
+
+### AI-Driven Energy Arbitrage
+
+We are developing reinforcement learning algorithms to optimize energy trading decisions in electricity markets, with particular attention to battery-equipped renewable generators. This research explores the potential economic benefits of energy storage while supporting grid stability.
+
+### Decarbonization Through Flexible Loads
+
+Building on my postdoctoral research, this project quantifies and enhances the decarbonization potential of flexible loads in residential buildings, contributing to more sustainable energy consumption patterns.
+
+## Collaborations
+
+I actively seek collaborations with researchers, industry partners, and policymakers interested in advancing sustainable energy solutions. If you are interested in potential research partnerships, please [contact me](contact.qmd).
