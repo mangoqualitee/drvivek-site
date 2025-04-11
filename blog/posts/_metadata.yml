@@ -1,0 +1,17 @@
+# Options specified here will apply to all posts in this folder
+
+# Freeze computational output
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: true
+
+# Table of contents
+toc: true
+toc-depth: 3
+
+# Author name of all blog posts
+author: "Dr. Vivek Deulkar"
+
+# Enable CC License footer
+license: "CC BY-NC-SA 4.0"

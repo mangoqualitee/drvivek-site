@@ -1,0 +1,9 @@
+---
+title: "Post With Code"
+author: "Vivek Deulkar"
+date: "2025-04-11"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.

@@ -1,0 +1,15 @@
+---
+title: "Blog"
+subtitle: "Thoughts on Energy Systems, Sustainability, and Technology"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+page-layout: full
+---
+
+Welcome to my blog where I share insights on sustainable energy systems, battery technology, renewable integration, and the application of artificial intelligence in addressing our energy challenges.
