@@ -1,0 +1,381 @@
+---
+title: The History of Artificial Intelligence
+author: Vishal Paudel
+date: 2025-05-29
+description: From Myths to Computing
+
+toc: true
+toc-location: left
+
+number-sections: true
+---
+
+Attempting to systematically study the history of any human endeavour is an intellectual hurdle which hides in it a humoungous potential and bears through it a sweet fruit of truth. Such an activity bears flexibility of thought, it sows seeds for lays bare detailed insights and more than any other benefit, it gives strength. But this activity is difficult. To attempt a study of a subject's evolution is difficult. This more than any other subject, is more so the case with Artificial Intelligence which by its nature spans and crosses so many disciplines that in my opinion no other subject pursuid by humans does. The reason for this is clear. Artificial Intelligence begins at the inate experience of every human being. It starts with that hopelessness of reasoning the experienced reality and ends today at the most colourful intersection of most advanced of human technologies. It crosses border between disciplines, by approach from nueroscience, philosophy and in application from mathematics to biology. Thus it is a tremendous task to attempt studying the history of such an intricate subject. Am I attempting to do such a thing? I do not know. Right now not. Right now, the following document only contains the most curious of happenstances and outlines the outline of the developments of a Giant of a human endeavour. Right now, the following documents only contains an *Outline* of the evolution of the field of Artificial Intelligence.
+
+# Outline Summary {.unnumbered}
+
+The current outline is mostly a product of my reaserach of the topic of this article(?). Most of the inspiration for this outline right now, comes from [the-wikipedia-article] on this subject. The *AIM* of this currently is to be comprehensive and historically accurate foundation for an eventual article(?) on AI history.
+
+## Brief Remarks on the Outline {.unnumbered}
+
+**Key Decisions Made:**
+
+1. **Precursors Section**: The structure from [the-wikipedia-article] revealed I had underemphasized the rich mythological and fictional foundations of AI. So, I have updated outline now with ancient myths (Greek Talos, Jewish Golem), medieval legends, and modern fiction that shaped AI imagination.
+
+2. **Periodization**: [the-wikipedia-article] refined the chronology of the Outline. The "Birth of AI" period (1941-1956) now properly includes wartime computing advances, and I've separated the later periods more clearly.
+
+3. **Institutional Context**: The details from [the-lesswrong-blog]. I have added more sections about specific research centers and their approaches (Stanford logic, MIT anti-logic, Edinburgh), which provides important context for understanding how different AI schools of thought developed.
+
+4. **Market and Commercial Aspects**: [the-wikipedia-article] emphasizes the commercial dimension thourougly. I've now included in the outline sections for details about AI companies, market cycles, and the business side of AI development.
+
+5. **Recent Recognition**: I've added a section on 2024 Nobel Prizes - it shows AI's achievement of scientific respectability and recognition at the highest levels.
+
+**Structural Decisions Worth Noting:**
+
+- Wikipedia uses broader periods with more overlap, while my original outline was more strictly chronological
+- Wikipedia emphasizes the cyclical nature of AI development (winters and booms) more explicitly
+- The Wikipedia structure shows how AI "went behind the scenes" during winters, continuing to develop within other fields
+- Recent developments are given more weight, reflecting AI's current prominence
+
+**Depth vs Breadth Trade-offs:**
+
+Right now, the outline maintains more technical depth in areas like specific algorithms and theoretical foundations, while [the-wikipedia-article] structure is more accessible to general readers. For the article, I am considering audience targeting to decide on the appropriate level of technical detail for each section.
+
+Finally here is the **Outline**:
+
+# Introduction
+## What is Artificial Intelligence?
+### Defining intelligence in machines
+### The Turing Test and early benchmarks
+### Narrow vs General AI distinction
+## Why Study AI History?
+### Understanding current limitations and capabilities
+### Learning from past hype cycles and winters
+### Appreciating the interdisciplinary nature of AI development
+
+# Precursors (Ancient Times - 1940s)
+## Mythical, Fictional, and Speculative Precursors
+### Ancient myths and legends of artificial beings
+#### Greek myths: Talos, Pandora, Pygmalion's Galatea
+#### Jewish folklore: the Golem of Prague
+#### Hindu and Buddhist automata in religious texts
+### Medieval legends of artificial beings
+#### Albertus Magnus and Thomas Aquinas's brazen heads
+#### Mechanical servants in Islamic Golden Age literature
+#### European clockwork automata and mechanical marvels
+### Modern fiction and speculative thought
+#### Mary Shelley's Frankenstein (1818)
+#### Karel Čapek's R.U.R. and the word "robot" (1920)
+#### Isaac Asimov's robot stories and Three Laws
+## Historical Automata
+### Ancient and medieval mechanical devices
+#### Antikythera mechanism and ancient Greek engineering
+#### Al-Jazari's programmable automata (13th century)
+#### European cathedral clocks and moving figures
+### Renaissance and Enlightenment automata
+#### Vaucanson's mechanical duck and flute player
+#### Jaquet-Droz family's writing and drawing automata
+#### The Turk: Kempelen's chess-playing automaton hoax
+## Formal Reasoning Foundations
+### Aristotelian logic and syllogistic reasoning
+### Medieval scholastic logic developments
+### Leibniz's dream of universal reasoning and characteristica universalis
+### Boolean algebra and the algebra of logic
+### Frege's predicate logic and formal systems
+## Mathematical and Computational Prerequisites
+### Gödel's incompleteness theorems and limits of formal systems
+### Church-Turing thesis and computability theory
+### Shannon's information theory and switching circuits
+### Early mechanical calculators: Pascal, Leibniz, Babbage
+### Ada Lovelace's insights on machine capabilities
+
+# Birth of Artificial Intelligence (1941-1956)
+## Wartime Computing Innovations
+### Colossus and early electronic computers
+### Cybernetics and feedback control systems
+### Claude Shannon's information theory foundations
+## The Turing Test and Machine Intelligence
+### Turing's "Computing Machinery and Intelligence" (1950)
+### The imitation game and operational definitions of intelligence
+### Early philosophical debates about machine consciousness
+## Neuroscience and Hebbian Learning Theory
+### Donald Hebb's "The Organization of Behavior" (1949)
+### Neural plasticity and learning mechanisms
+### Bridge between neuroscience and artificial systems
+## Early Artificial Neural Networks
+### McCulloch-Pitts neuron model (1943)
+### Mathematical foundations of neural computation
+### Perceptron development and early learning algorithms
+## Cybernetic Robots and Control Systems
+### Grey Walter's autonomous robots (Elmer and Elsie)
+### Feedback control and homeostatic machines
+### Early robotics and autonomous behavior
+## Game AI and Strategic Thinking
+### Shannon's chess-playing algorithms
+### Arthur Samuel's checkers program
+### Game theory applications to machine decision-making
+## Symbolic Reasoning and the Logic Theorist
+### Newell and Simon's Logic Theorist program (1956)
+### Symbolic manipulation and theorem proving
+### General Problem Solver architecture
+## The Dartmouth Workshop (1956)
+### John McCarthy coins "Artificial Intelligence"
+### Key participants and their research agendas
+### Birth of AI as a formal academic discipline
+### Initial optimism and ambitious goals
+## The Cognitive Revolution Context
+### Shift from behaviorism to information processing
+### Computer metaphors for human cognition
+### Interdisciplinary collaboration emergence
+
+# Early Successes (1956-1974)
+## Major Approaches and Methodologies
+### Reasoning, planning and problem solving as search
+#### State space search and heuristic methods
+#### Means-ends analysis and GPS (General Problem Solver)
+#### A* algorithm and optimal pathfinding
+### Natural language processing attempts
+#### ELIZA and pattern matching approaches
+#### Syntactic parsing and grammar systems
+#### Early machine translation projects and failures
+### Micro-worlds and constrained domains
+#### Blocks World and spatial reasoning
+#### SHRDLU and natural language understanding
+#### Simplified domains for complex reasoning
+### Perceptrons and early neural networks
+#### Rosenblatt's perceptron learning algorithm
+#### Pattern recognition capabilities
+#### Minsky-Papert critique and limitations
+## Unbounded Optimism Period
+### Predictions of rapid progress to human-level AI
+### Herbert Simon's famous 1957 prediction
+### Marvin Minsky's timeline estimates
+### Media coverage and public excitement
+## Research Financing and Institutional Growth
+### DARPA (ARPA) funding initiatives
+### University AI labs establishment
+### Government interest in machine translation
+### Private sector early investments
+## Key Figures and Their Contributions
+### John McCarthy: LISP, time-sharing, logic formalization
+### Marvin Minsky: neural networks, Society of Mind concepts
+### Allen Newell and Herbert Simon: problem-solving paradigms
+### Arthur Samuel: machine learning and self-improvement
+### Joseph Weizenbaum: ELIZA and human-computer interaction
+
+# First AI Winter (1974-1980)
+## Fundamental Problems Emerge
+### Combinatorial explosion in search problems
+### Frame problem in knowledge representation
+### Brittleness of symbolic reasoning systems
+### Scaling challenges with real-world complexity
+## Dramatic Decrease in Funding
+### Lighthill Report's devastating critique (UK, 1973)
+### DARPA funding cuts in the United States
+### Machine translation projects declared failures
+### University lab closures and staff reductions
+## Philosophical and Ethical Critiques
+### Hubert Dreyfus's "What Computers Can't Do"
+### Critique of symbol manipulation approaches
+### Questions about embodied intelligence
+### Ethical concerns about replacing human judgment
+## Institutional Responses and Adaptations
+### Logic programming at Stanford, CMU, and Edinburgh
+#### Prolog development and logic-based reasoning
+#### Resolution theorem proving advances
+#### Formal verification research
+### MIT's "anti-logic" approach
+#### Emphasis on procedural knowledge
+#### Frame-based knowledge representation
+#### Commonsense reasoning research
+## Lessons and Methodological Shifts
+### Importance of realistic goal-setting
+### Need for rigorous evaluation metrics
+### Value of incremental over revolutionary progress
+### Recognition of knowledge acquisition bottleneck
+
+# AI Boom (1980-1987)
+## Expert Systems Become Widely Used
+### DENDRAL and MYCIN success stories
+### Commercial expert system shells
+### Rule-based reasoning in industry applications
+### Knowledge engineering methodology development
+## Government Funding Increases
+### Japanese Fifth Generation Computer Systems project
+### US Strategic Computing Initiative response
+### European ESPRIT program investments
+### Military AI applications funding
+## The Knowledge Revolution
+### Knowledge-based systems paradigm
+### Ontology development and knowledge representation
+### Inference engines and explanation facilities
+### Expert system development tools and environments
+## Commercial AI Market Expansion
+### AI companies go public: Symbolics, LMI, IntelliCorp
+### Lisp machine specialized hardware
+### Expert system consulting boom
+### Corporate AI research labs establishment
+## New Directions in the 1980s
+### Revival of neural networks: "connectionism"
+#### Parallel distributed processing (PDP) volumes
+#### Backpropagation algorithm rediscovery
+#### Neural network hardware development
+#### Connectionist vs symbolic AI debates
+### Robotics and embodied reasoning
+#### Mobile robot navigation systems
+#### Computer vision for robotics
+#### Sensor fusion and real-world interaction
+#### Behavior-based robotics emergence
+### Soft computing and probabilistic reasoning
+#### Fuzzy logic systems development
+#### Uncertainty handling in expert systems
+#### Probabilistic inference methods
+#### Hybrid symbolic-numeric approaches
+### Reinforcement learning foundations
+#### Temporal difference learning
+#### Q-learning algorithm development
+#### Markov decision process formalization
+#### Learning from interaction paradigms
+
+# Second AI Winter (1987-1993)
+## AI Winter Market Collapse
+### Lisp machine companies bankruptcy
+### Expert systems market crash and disillusionment
+### End of Japanese Fifth Generation project
+### Venture capital withdrawal from AI sector
+## Technical Limitations Exposed
+### Scaling problems with symbolic approaches
+### Knowledge acquisition bottleneck persists
+### Brittleness in real-world applications
+### Maintenance costs exceed benefits
+## AI Research Goes Behind the Scenes
+### Integration into other computer science fields
+### Gradual embedding in practical applications
+### Less visible but continued progress
+### Focus shifts from AI as brand to useful techniques
+## Mathematical Rigor and Methodological Changes
+### Greater emphasis on statistical methods
+### Rigorous evaluation protocols development
+### Collaboration with statistics and optimization
+### Move away from grand unified theories
+## Narrow Focus and Specialized Applications
+### Constraint satisfaction problems
+### Automated reasoning in specific domains
+### Machine learning for particular tasks
+### Computer vision for industrial applications
+## Intelligent Agents Paradigm Emergence
+### Agent-oriented programming concepts
+### Distributed problem solving
+### Multi-agent systems research
+### Software agents and autonomous systems
+## Milestones Despite the Winter
+### Continued progress in specialized areas
+### Moore's Law enabling new possibilities
+### Internet creating new data sources
+### Gradual accumulation of practical successes
+
+# Big Data, Deep Learning, and AGI Research (2005-2017)
+## Big Data and Computational Revolution
+### Internet-scale datasets emergence
+### Cloud computing democratization
+### GPU computing for parallel processing
+### Distributed computing frameworks (MapReduce, Hadoop)
+## Deep Learning Breakthrough
+### Geoffrey Hinton's deep belief networks
+### ImageNet competition and convolutional networks
+### Backpropagation scaling to deeper networks
+### Representation learning and feature discovery
+## The Alignment Problem Recognition
+### AI safety research emergence
+### Control problem and value alignment
+### Long-term existential risk discussions
+### Stuart Russell and Nick Bostrom's contributions
+## Artificial General Intelligence Research
+### AGI as explicit research goal
+### OpenAI and DeepMind founding
+### Different approaches to general intelligence
+### Debate over timelines and feasibility
+## Major Milestones and Achievements
+### Deep Blue defeats Kasparov (1997)
+### Watson wins Jeopardy! (2011)
+### AlexNet ImageNet victory (2012)
+### AlphaGo defeats world champion (2016)
+## Industry Transformation
+### Big Tech AI arms race begins
+### Acquisition of AI startups and talent
+### Open source framework development
+### AI democratization through cloud services
+
+# Large Language Models and AI Boom (2020-Present)
+## Transformer Architecture and Language Models
+### "Attention is All You Need" paper impact
+### BERT and bidirectional representations
+### GPT series evolution and scale effects
+### Parameter scaling and emergent capabilities
+## The AI Boom Acceleration
+### ChatGPT release and mainstream adoption
+### Generative AI investment surge
+### Competition between tech giants
+### AI startup ecosystem explosion
+## Advent of AI for Public Use
+### User-friendly AI interfaces
+### Democratization of AI capabilities
+### Integration into everyday applications
+### Consumer and enterprise adoption
+## 2024 Nobel Prizes Recognition
+### Geoffrey Hinton and John Hopfield (Physics)
+### Demis Hassabis, John Jumper, David Baker (Chemistry)
+### AI's contribution to scientific discovery
+### Recognition of AI's fundamental importance
+## Current Developments and Challenges
+### Multimodal AI systems (vision, text, audio)
+### AI safety and alignment research intensification
+### Regulatory frameworks development
+### Societal impact and adaptation
+### Artificial General Intelligence pursuit
+### Compute scaling and efficiency improvements
+
+# Current Frontiers and Future Directions
+## Technical Challenges
+### Artificial General Intelligence (AGI) pursuit
+### Causal reasoning and world models
+### Continual learning and catastrophic forgetting
+### Embodied AI and robotics integration
+## Emerging Paradigms
+### Neuro-symbolic AI hybrid approaches
+### Quantum computing applications
+### Brain-computer interfaces
+### Neuromorphic computing architectures
+## Societal Considerations
+### AI governance and international cooperation
+### Economic disruption and job displacement
+### Privacy and surveillance implications
+### Democratic participation in AI development
+
+# Lessons from AI History
+## Recurring Patterns
+### Hype cycles and their predictable stages
+### Importance of hardware-software co-evolution
+### Value of interdisciplinary collaboration
+### Role of data availability in progress
+## What History Teaches Us
+### Patience with long-term research programs
+### Danger of overpromising and underdelivering
+### Importance of robust evaluation metrics
+### Need for diverse perspectives and approaches
+## Preparing for the Future
+### Building resilient research institutions
+### Fostering responsible AI development
+### Maintaining human agency and control
+### Ensuring broad societal benefit
+
+# Conclusion
+## AI's Remarkable Journey
+### From philosophical speculation to practical reality
+### Exponential acceleration in recent decades
+### Unprecedented potential and challenges ahead
+## The Road Ahead
+### Continued technical progress expectations
+### Importance of wisdom alongside intelligence
+### Need for thoughtful human guidance
+### AI as a tool for human flourishing
