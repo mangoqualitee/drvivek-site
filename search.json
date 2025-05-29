@@ -207,7 +207,406 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome to my blog where I share insights on sustainable energy systems, battery technology, renewable integration, and the application of artificial intelligence in addressing our energy challenges.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n \n\n\nnews\n\ncode\n\nanalysis\n\n\n \n\n\n\n\n\nApr 11, 2025\nVivek Deulkar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n \n\n\nnews\n\n\n \n\n\n\n\n\nApr 8, 2025\nDr. Vivek Deulkar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Future of Energy Storage\nLithium-ion batteries and their role in sustainable power\n\n \n\n\nEnergy Storage\n\nSustainability\n\nBattery Technology\n\n\n \n\n\n\n\n\nFeb 15, 2024\nDr. Vivek Deulkar\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my blog where I share insights on sustainable energy systems, battery technology, renewable integration, and the application of artificial intelligence in addressing our energy challenges.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nThe History of Artificial Intelligence\n\n\n\n\n\nFrom Myths to Computing\n\n\n\n\n\nMay 29, 2025\n\n\nVishal Paudel\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 11, 2025\n\n\nVivek Deulkar\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 8, 2025\n\n\nDr. Vivek Deulkar\n\n\n\n\n\n\n\n\n\n\n\n\nThe Future of Energy Storage\n\n\nLithium-ion batteries and their role in sustainable power\n\n\n\nEnergy Storage\n\nSustainability\n\nBattery Technology\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nDr. Vivek Deulkar\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html",
+    "href": "blog/posts/history-of-ai/index.html",
+    "title": "The History of Artificial Intelligence",
+    "section": "",
+    "text": "Attempting to systematically study the history of any human endeavour is an intellectual hurdle which hides in it a humoungous potential and bears through it a sweet fruit of truth. Such an activity bears flexibility of thought, it sows seeds for lays bare detailed insights and more than any other benefit, it gives strength. But this activity is difficult. To attempt a study of a subject’s evolution is difficult. This more than any other subject, is more so the case with Artificial Intelligence which by its nature spans and crosses so many disciplines that in my opinion no other subject pursuid by humans does. The reason for this is clear. Artificial Intelligence begins at the inate experience of every human being. It starts with that hopelessness of reasoning the experienced reality and ends today at the most colourful intersection of most advanced of human technologies. It crosses border between disciplines, by approach from nueroscience, philosophy and in application from mathematics to biology. Thus it is a tremendous task to attempt studying the history of such an intricate subject. Am I attempting to do such a thing? I do not know. Right now not. Right now, the following document only contains the most curious of happenstances and outlines the outline of the developments of a Giant of a human endeavour. Right now, the following documents only contains an Outline of the evolution of the field of Artificial Intelligence."
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#brief-remarks-on-the-outline",
+    "href": "blog/posts/history-of-ai/index.html#brief-remarks-on-the-outline",
+    "title": "The History of Artificial Intelligence",
+    "section": "Brief Remarks on the Outline",
+    "text": "Brief Remarks on the Outline\nKey Decisions Made:\n\nPrecursors Section: The structure from [the-wikipedia-article] revealed I had underemphasized the rich mythological and fictional foundations of AI. So, I have updated outline now with ancient myths (Greek Talos, Jewish Golem), medieval legends, and modern fiction that shaped AI imagination.\nPeriodization: [the-wikipedia-article] refined the chronology of the Outline. The “Birth of AI” period (1941-1956) now properly includes wartime computing advances, and I’ve separated the later periods more clearly.\nInstitutional Context: The details from [the-lesswrong-blog]. I have added more sections about specific research centers and their approaches (Stanford logic, MIT anti-logic, Edinburgh), which provides important context for understanding how different AI schools of thought developed.\nMarket and Commercial Aspects: [the-wikipedia-article] emphasizes the commercial dimension thourougly. I’ve now included in the outline sections for details about AI companies, market cycles, and the business side of AI development.\nRecent Recognition: I’ve added a section on 2024 Nobel Prizes - it shows AI’s achievement of scientific respectability and recognition at the highest levels.\n\nStructural Decisions Worth Noting:\n\nWikipedia uses broader periods with more overlap, while my original outline was more strictly chronological\nWikipedia emphasizes the cyclical nature of AI development (winters and booms) more explicitly\nThe Wikipedia structure shows how AI “went behind the scenes” during winters, continuing to develop within other fields\nRecent developments are given more weight, reflecting AI’s current prominence\n\nDepth vs Breadth Trade-offs:\nRight now, the outline maintains more technical depth in areas like specific algorithms and theoretical foundations, while [the-wikipedia-article] structure is more accessible to general readers. For the article, I am considering audience targeting to decide on the appropriate level of technical detail for each section.\nFinally here is the Outline:"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#what-is-artificial-intelligence",
+    "href": "blog/posts/history-of-ai/index.html#what-is-artificial-intelligence",
+    "title": "The History of Artificial Intelligence",
+    "section": "1.1 What is Artificial Intelligence?",
+    "text": "1.1 What is Artificial Intelligence?\n\n1.1.1 Defining intelligence in machines\n\n\n1.1.2 The Turing Test and early benchmarks\n\n\n1.1.3 Narrow vs General AI distinction"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#why-study-ai-history",
+    "href": "blog/posts/history-of-ai/index.html#why-study-ai-history",
+    "title": "The History of Artificial Intelligence",
+    "section": "1.2 Why Study AI History?",
+    "text": "1.2 Why Study AI History?\n\n1.2.1 Understanding current limitations and capabilities\n\n\n1.2.2 Learning from past hype cycles and winters\n\n\n1.2.3 Appreciating the interdisciplinary nature of AI development"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#mythical-fictional-and-speculative-precursors",
+    "href": "blog/posts/history-of-ai/index.html#mythical-fictional-and-speculative-precursors",
+    "title": "The History of Artificial Intelligence",
+    "section": "2.1 Mythical, Fictional, and Speculative Precursors",
+    "text": "2.1 Mythical, Fictional, and Speculative Precursors\n\n2.1.1 Ancient myths and legends of artificial beings\n\n2.1.1.1 Greek myths: Talos, Pandora, Pygmalion’s Galatea\n\n\n2.1.1.2 Jewish folklore: the Golem of Prague\n\n\n2.1.1.3 Hindu and Buddhist automata in religious texts\n\n\n\n2.1.2 Medieval legends of artificial beings\n\n2.1.2.1 Albertus Magnus and Thomas Aquinas’s brazen heads\n\n\n2.1.2.2 Mechanical servants in Islamic Golden Age literature\n\n\n2.1.2.3 European clockwork automata and mechanical marvels\n\n\n\n2.1.3 Modern fiction and speculative thought\n\n2.1.3.1 Mary Shelley’s Frankenstein (1818)\n\n\n2.1.3.2 Karel Čapek’s R.U.R. and the word “robot” (1920)\n\n\n2.1.3.3 Isaac Asimov’s robot stories and Three Laws"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#historical-automata",
+    "href": "blog/posts/history-of-ai/index.html#historical-automata",
+    "title": "The History of Artificial Intelligence",
+    "section": "2.2 Historical Automata",
+    "text": "2.2 Historical Automata\n\n2.2.1 Ancient and medieval mechanical devices\n\n2.2.1.1 Antikythera mechanism and ancient Greek engineering\n\n\n2.2.1.2 Al-Jazari’s programmable automata (13th century)\n\n\n2.2.1.3 European cathedral clocks and moving figures\n\n\n\n2.2.2 Renaissance and Enlightenment automata\n\n2.2.2.1 Vaucanson’s mechanical duck and flute player\n\n\n2.2.2.2 Jaquet-Droz family’s writing and drawing automata\n\n\n2.2.2.3 The Turk: Kempelen’s chess-playing automaton hoax"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#formal-reasoning-foundations",
+    "href": "blog/posts/history-of-ai/index.html#formal-reasoning-foundations",
+    "title": "The History of Artificial Intelligence",
+    "section": "2.3 Formal Reasoning Foundations",
+    "text": "2.3 Formal Reasoning Foundations\n\n2.3.1 Aristotelian logic and syllogistic reasoning\n\n\n2.3.2 Medieval scholastic logic developments\n\n\n2.3.3 Leibniz’s dream of universal reasoning and characteristica universalis\n\n\n2.3.4 Boolean algebra and the algebra of logic\n\n\n2.3.5 Frege’s predicate logic and formal systems"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#mathematical-and-computational-prerequisites",
+    "href": "blog/posts/history-of-ai/index.html#mathematical-and-computational-prerequisites",
+    "title": "The History of Artificial Intelligence",
+    "section": "2.4 Mathematical and Computational Prerequisites",
+    "text": "2.4 Mathematical and Computational Prerequisites\n\n2.4.1 Gödel’s incompleteness theorems and limits of formal systems\n\n\n2.4.2 Church-Turing thesis and computability theory\n\n\n2.4.3 Shannon’s information theory and switching circuits\n\n\n2.4.4 Early mechanical calculators: Pascal, Leibniz, Babbage\n\n\n2.4.5 Ada Lovelace’s insights on machine capabilities"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#wartime-computing-innovations",
+    "href": "blog/posts/history-of-ai/index.html#wartime-computing-innovations",
+    "title": "The History of Artificial Intelligence",
+    "section": "3.1 Wartime Computing Innovations",
+    "text": "3.1 Wartime Computing Innovations\n\n3.1.1 Colossus and early electronic computers\n\n\n3.1.2 Cybernetics and feedback control systems\n\n\n3.1.3 Claude Shannon’s information theory foundations"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#the-turing-test-and-machine-intelligence",
+    "href": "blog/posts/history-of-ai/index.html#the-turing-test-and-machine-intelligence",
+    "title": "The History of Artificial Intelligence",
+    "section": "3.2 The Turing Test and Machine Intelligence",
+    "text": "3.2 The Turing Test and Machine Intelligence\n\n3.2.1 Turing’s “Computing Machinery and Intelligence” (1950)\n\n\n3.2.2 The imitation game and operational definitions of intelligence\n\n\n3.2.3 Early philosophical debates about machine consciousness"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#neuroscience-and-hebbian-learning-theory",
+    "href": "blog/posts/history-of-ai/index.html#neuroscience-and-hebbian-learning-theory",
+    "title": "The History of Artificial Intelligence",
+    "section": "3.3 Neuroscience and Hebbian Learning Theory",
+    "text": "3.3 Neuroscience and Hebbian Learning Theory\n\n3.3.1 Donald Hebb’s “The Organization of Behavior” (1949)\n\n\n3.3.2 Neural plasticity and learning mechanisms\n\n\n3.3.3 Bridge between neuroscience and artificial systems"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#early-artificial-neural-networks",
+    "href": "blog/posts/history-of-ai/index.html#early-artificial-neural-networks",
+    "title": "The History of Artificial Intelligence",
+    "section": "3.4 Early Artificial Neural Networks",
+    "text": "3.4 Early Artificial Neural Networks\n\n3.4.1 McCulloch-Pitts neuron model (1943)\n\n\n3.4.2 Mathematical foundations of neural computation\n\n\n3.4.3 Perceptron development and early learning algorithms"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#cybernetic-robots-and-control-systems",
+    "href": "blog/posts/history-of-ai/index.html#cybernetic-robots-and-control-systems",
+    "title": "The History of Artificial Intelligence",
+    "section": "3.5 Cybernetic Robots and Control Systems",
+    "text": "3.5 Cybernetic Robots and Control Systems\n\n3.5.1 Grey Walter’s autonomous robots (Elmer and Elsie)\n\n\n3.5.2 Feedback control and homeostatic machines\n\n\n3.5.3 Early robotics and autonomous behavior"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#game-ai-and-strategic-thinking",
+    "href": "blog/posts/history-of-ai/index.html#game-ai-and-strategic-thinking",
+    "title": "The History of Artificial Intelligence",
+    "section": "3.6 Game AI and Strategic Thinking",
+    "text": "3.6 Game AI and Strategic Thinking\n\n3.6.1 Shannon’s chess-playing algorithms\n\n\n3.6.2 Arthur Samuel’s checkers program\n\n\n3.6.3 Game theory applications to machine decision-making"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#symbolic-reasoning-and-the-logic-theorist",
+    "href": "blog/posts/history-of-ai/index.html#symbolic-reasoning-and-the-logic-theorist",
+    "title": "The History of Artificial Intelligence",
+    "section": "3.7 Symbolic Reasoning and the Logic Theorist",
+    "text": "3.7 Symbolic Reasoning and the Logic Theorist\n\n3.7.1 Newell and Simon’s Logic Theorist program (1956)\n\n\n3.7.2 Symbolic manipulation and theorem proving\n\n\n3.7.3 General Problem Solver architecture"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#the-dartmouth-workshop-1956",
+    "href": "blog/posts/history-of-ai/index.html#the-dartmouth-workshop-1956",
+    "title": "The History of Artificial Intelligence",
+    "section": "3.8 The Dartmouth Workshop (1956)",
+    "text": "3.8 The Dartmouth Workshop (1956)\n\n3.8.1 John McCarthy coins “Artificial Intelligence”\n\n\n3.8.2 Key participants and their research agendas\n\n\n3.8.3 Birth of AI as a formal academic discipline\n\n\n3.8.4 Initial optimism and ambitious goals"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#the-cognitive-revolution-context",
+    "href": "blog/posts/history-of-ai/index.html#the-cognitive-revolution-context",
+    "title": "The History of Artificial Intelligence",
+    "section": "3.9 The Cognitive Revolution Context",
+    "text": "3.9 The Cognitive Revolution Context\n\n3.9.1 Shift from behaviorism to information processing\n\n\n3.9.2 Computer metaphors for human cognition\n\n\n3.9.3 Interdisciplinary collaboration emergence"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#major-approaches-and-methodologies",
+    "href": "blog/posts/history-of-ai/index.html#major-approaches-and-methodologies",
+    "title": "The History of Artificial Intelligence",
+    "section": "4.1 Major Approaches and Methodologies",
+    "text": "4.1 Major Approaches and Methodologies\n\n4.1.1 Reasoning, planning and problem solving as search\n\n4.1.1.1 State space search and heuristic methods\n\n\n4.1.1.2 Means-ends analysis and GPS (General Problem Solver)\n\n\n4.1.1.3 A* algorithm and optimal pathfinding\n\n\n\n4.1.2 Natural language processing attempts\n\n4.1.2.1 ELIZA and pattern matching approaches\n\n\n4.1.2.2 Syntactic parsing and grammar systems\n\n\n4.1.2.3 Early machine translation projects and failures\n\n\n\n4.1.3 Micro-worlds and constrained domains\n\n4.1.3.1 Blocks World and spatial reasoning\n\n\n4.1.3.2 SHRDLU and natural language understanding\n\n\n4.1.3.3 Simplified domains for complex reasoning\n\n\n\n4.1.4 Perceptrons and early neural networks\n\n4.1.4.1 Rosenblatt’s perceptron learning algorithm\n\n\n4.1.4.2 Pattern recognition capabilities\n\n\n4.1.4.3 Minsky-Papert critique and limitations"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#unbounded-optimism-period",
+    "href": "blog/posts/history-of-ai/index.html#unbounded-optimism-period",
+    "title": "The History of Artificial Intelligence",
+    "section": "4.2 Unbounded Optimism Period",
+    "text": "4.2 Unbounded Optimism Period\n\n4.2.1 Predictions of rapid progress to human-level AI\n\n\n4.2.2 Herbert Simon’s famous 1957 prediction\n\n\n4.2.3 Marvin Minsky’s timeline estimates\n\n\n4.2.4 Media coverage and public excitement"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#research-financing-and-institutional-growth",
+    "href": "blog/posts/history-of-ai/index.html#research-financing-and-institutional-growth",
+    "title": "The History of Artificial Intelligence",
+    "section": "4.3 Research Financing and Institutional Growth",
+    "text": "4.3 Research Financing and Institutional Growth\n\n4.3.1 DARPA (ARPA) funding initiatives\n\n\n4.3.2 University AI labs establishment\n\n\n4.3.3 Government interest in machine translation\n\n\n4.3.4 Private sector early investments"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#key-figures-and-their-contributions",
+    "href": "blog/posts/history-of-ai/index.html#key-figures-and-their-contributions",
+    "title": "The History of Artificial Intelligence",
+    "section": "4.4 Key Figures and Their Contributions",
+    "text": "4.4 Key Figures and Their Contributions\n\n4.4.1 John McCarthy: LISP, time-sharing, logic formalization\n\n\n4.4.2 Marvin Minsky: neural networks, Society of Mind concepts\n\n\n4.4.3 Allen Newell and Herbert Simon: problem-solving paradigms\n\n\n4.4.4 Arthur Samuel: machine learning and self-improvement\n\n\n4.4.5 Joseph Weizenbaum: ELIZA and human-computer interaction"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#fundamental-problems-emerge",
+    "href": "blog/posts/history-of-ai/index.html#fundamental-problems-emerge",
+    "title": "The History of Artificial Intelligence",
+    "section": "5.1 Fundamental Problems Emerge",
+    "text": "5.1 Fundamental Problems Emerge\n\n5.1.1 Combinatorial explosion in search problems\n\n\n5.1.2 Frame problem in knowledge representation\n\n\n5.1.3 Brittleness of symbolic reasoning systems\n\n\n5.1.4 Scaling challenges with real-world complexity"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#dramatic-decrease-in-funding",
+    "href": "blog/posts/history-of-ai/index.html#dramatic-decrease-in-funding",
+    "title": "The History of Artificial Intelligence",
+    "section": "5.2 Dramatic Decrease in Funding",
+    "text": "5.2 Dramatic Decrease in Funding\n\n5.2.1 Lighthill Report’s devastating critique (UK, 1973)\n\n\n5.2.2 DARPA funding cuts in the United States\n\n\n5.2.3 Machine translation projects declared failures\n\n\n5.2.4 University lab closures and staff reductions"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#philosophical-and-ethical-critiques",
+    "href": "blog/posts/history-of-ai/index.html#philosophical-and-ethical-critiques",
+    "title": "The History of Artificial Intelligence",
+    "section": "5.3 Philosophical and Ethical Critiques",
+    "text": "5.3 Philosophical and Ethical Critiques\n\n5.3.1 Hubert Dreyfus’s “What Computers Can’t Do”\n\n\n5.3.2 Critique of symbol manipulation approaches\n\n\n5.3.3 Questions about embodied intelligence\n\n\n5.3.4 Ethical concerns about replacing human judgment"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#institutional-responses-and-adaptations",
+    "href": "blog/posts/history-of-ai/index.html#institutional-responses-and-adaptations",
+    "title": "The History of Artificial Intelligence",
+    "section": "5.4 Institutional Responses and Adaptations",
+    "text": "5.4 Institutional Responses and Adaptations\n\n5.4.1 Logic programming at Stanford, CMU, and Edinburgh\n\n5.4.1.1 Prolog development and logic-based reasoning\n\n\n5.4.1.2 Resolution theorem proving advances\n\n\n5.4.1.3 Formal verification research\n\n\n\n5.4.2 MIT’s “anti-logic” approach\n\n5.4.2.1 Emphasis on procedural knowledge\n\n\n5.4.2.2 Frame-based knowledge representation\n\n\n5.4.2.3 Commonsense reasoning research"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#lessons-and-methodological-shifts",
+    "href": "blog/posts/history-of-ai/index.html#lessons-and-methodological-shifts",
+    "title": "The History of Artificial Intelligence",
+    "section": "5.5 Lessons and Methodological Shifts",
+    "text": "5.5 Lessons and Methodological Shifts\n\n5.5.1 Importance of realistic goal-setting\n\n\n5.5.2 Need for rigorous evaluation metrics\n\n\n5.5.3 Value of incremental over revolutionary progress\n\n\n5.5.4 Recognition of knowledge acquisition bottleneck"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#expert-systems-become-widely-used",
+    "href": "blog/posts/history-of-ai/index.html#expert-systems-become-widely-used",
+    "title": "The History of Artificial Intelligence",
+    "section": "6.1 Expert Systems Become Widely Used",
+    "text": "6.1 Expert Systems Become Widely Used\n\n6.1.1 DENDRAL and MYCIN success stories\n\n\n6.1.2 Commercial expert system shells\n\n\n6.1.3 Rule-based reasoning in industry applications\n\n\n6.1.4 Knowledge engineering methodology development"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#government-funding-increases",
+    "href": "blog/posts/history-of-ai/index.html#government-funding-increases",
+    "title": "The History of Artificial Intelligence",
+    "section": "6.2 Government Funding Increases",
+    "text": "6.2 Government Funding Increases\n\n6.2.1 Japanese Fifth Generation Computer Systems project\n\n\n6.2.2 US Strategic Computing Initiative response\n\n\n6.2.3 European ESPRIT program investments\n\n\n6.2.4 Military AI applications funding"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#the-knowledge-revolution",
+    "href": "blog/posts/history-of-ai/index.html#the-knowledge-revolution",
+    "title": "The History of Artificial Intelligence",
+    "section": "6.3 The Knowledge Revolution",
+    "text": "6.3 The Knowledge Revolution\n\n6.3.1 Knowledge-based systems paradigm\n\n\n6.3.2 Ontology development and knowledge representation\n\n\n6.3.3 Inference engines and explanation facilities\n\n\n6.3.4 Expert system development tools and environments"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#commercial-ai-market-expansion",
+    "href": "blog/posts/history-of-ai/index.html#commercial-ai-market-expansion",
+    "title": "The History of Artificial Intelligence",
+    "section": "6.4 Commercial AI Market Expansion",
+    "text": "6.4 Commercial AI Market Expansion\n\n6.4.1 AI companies go public: Symbolics, LMI, IntelliCorp\n\n\n6.4.2 Lisp machine specialized hardware\n\n\n6.4.3 Expert system consulting boom\n\n\n6.4.4 Corporate AI research labs establishment"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#new-directions-in-the-1980s",
+    "href": "blog/posts/history-of-ai/index.html#new-directions-in-the-1980s",
+    "title": "The History of Artificial Intelligence",
+    "section": "6.5 New Directions in the 1980s",
+    "text": "6.5 New Directions in the 1980s\n\n6.5.1 Revival of neural networks: “connectionism”\n\n6.5.1.1 Parallel distributed processing (PDP) volumes\n\n\n6.5.1.2 Backpropagation algorithm rediscovery\n\n\n6.5.1.3 Neural network hardware development\n\n\n6.5.1.4 Connectionist vs symbolic AI debates\n\n\n\n6.5.2 Robotics and embodied reasoning\n\n6.5.2.1 Mobile robot navigation systems\n\n\n6.5.2.2 Computer vision for robotics\n\n\n6.5.2.3 Sensor fusion and real-world interaction\n\n\n6.5.2.4 Behavior-based robotics emergence\n\n\n\n6.5.3 Soft computing and probabilistic reasoning\n\n6.5.3.1 Fuzzy logic systems development\n\n\n6.5.3.2 Uncertainty handling in expert systems\n\n\n6.5.3.3 Probabilistic inference methods\n\n\n6.5.3.4 Hybrid symbolic-numeric approaches\n\n\n\n6.5.4 Reinforcement learning foundations\n\n6.5.4.1 Temporal difference learning\n\n\n6.5.4.2 Q-learning algorithm development\n\n\n6.5.4.3 Markov decision process formalization\n\n\n6.5.4.4 Learning from interaction paradigms"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#ai-winter-market-collapse",
+    "href": "blog/posts/history-of-ai/index.html#ai-winter-market-collapse",
+    "title": "The History of Artificial Intelligence",
+    "section": "7.1 AI Winter Market Collapse",
+    "text": "7.1 AI Winter Market Collapse\n\n7.1.1 Lisp machine companies bankruptcy\n\n\n7.1.2 Expert systems market crash and disillusionment\n\n\n7.1.3 End of Japanese Fifth Generation project\n\n\n7.1.4 Venture capital withdrawal from AI sector"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#technical-limitations-exposed",
+    "href": "blog/posts/history-of-ai/index.html#technical-limitations-exposed",
+    "title": "The History of Artificial Intelligence",
+    "section": "7.2 Technical Limitations Exposed",
+    "text": "7.2 Technical Limitations Exposed\n\n7.2.1 Scaling problems with symbolic approaches\n\n\n7.2.2 Knowledge acquisition bottleneck persists\n\n\n7.2.3 Brittleness in real-world applications\n\n\n7.2.4 Maintenance costs exceed benefits"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#ai-research-goes-behind-the-scenes",
+    "href": "blog/posts/history-of-ai/index.html#ai-research-goes-behind-the-scenes",
+    "title": "The History of Artificial Intelligence",
+    "section": "7.3 AI Research Goes Behind the Scenes",
+    "text": "7.3 AI Research Goes Behind the Scenes\n\n7.3.1 Integration into other computer science fields\n\n\n7.3.2 Gradual embedding in practical applications\n\n\n7.3.3 Less visible but continued progress\n\n\n7.3.4 Focus shifts from AI as brand to useful techniques"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#mathematical-rigor-and-methodological-changes",
+    "href": "blog/posts/history-of-ai/index.html#mathematical-rigor-and-methodological-changes",
+    "title": "The History of Artificial Intelligence",
+    "section": "7.4 Mathematical Rigor and Methodological Changes",
+    "text": "7.4 Mathematical Rigor and Methodological Changes\n\n7.4.1 Greater emphasis on statistical methods\n\n\n7.4.2 Rigorous evaluation protocols development\n\n\n7.4.3 Collaboration with statistics and optimization\n\n\n7.4.4 Move away from grand unified theories"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#narrow-focus-and-specialized-applications",
+    "href": "blog/posts/history-of-ai/index.html#narrow-focus-and-specialized-applications",
+    "title": "The History of Artificial Intelligence",
+    "section": "7.5 Narrow Focus and Specialized Applications",
+    "text": "7.5 Narrow Focus and Specialized Applications\n\n7.5.1 Constraint satisfaction problems\n\n\n7.5.2 Automated reasoning in specific domains\n\n\n7.5.3 Machine learning for particular tasks\n\n\n7.5.4 Computer vision for industrial applications"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#intelligent-agents-paradigm-emergence",
+    "href": "blog/posts/history-of-ai/index.html#intelligent-agents-paradigm-emergence",
+    "title": "The History of Artificial Intelligence",
+    "section": "7.6 Intelligent Agents Paradigm Emergence",
+    "text": "7.6 Intelligent Agents Paradigm Emergence\n\n7.6.1 Agent-oriented programming concepts\n\n\n7.6.2 Distributed problem solving\n\n\n7.6.3 Multi-agent systems research\n\n\n7.6.4 Software agents and autonomous systems"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#milestones-despite-the-winter",
+    "href": "blog/posts/history-of-ai/index.html#milestones-despite-the-winter",
+    "title": "The History of Artificial Intelligence",
+    "section": "7.7 Milestones Despite the Winter",
+    "text": "7.7 Milestones Despite the Winter\n\n7.7.1 Continued progress in specialized areas\n\n\n7.7.2 Moore’s Law enabling new possibilities\n\n\n7.7.3 Internet creating new data sources\n\n\n7.7.4 Gradual accumulation of practical successes"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#big-data-and-computational-revolution",
+    "href": "blog/posts/history-of-ai/index.html#big-data-and-computational-revolution",
+    "title": "The History of Artificial Intelligence",
+    "section": "8.1 Big Data and Computational Revolution",
+    "text": "8.1 Big Data and Computational Revolution\n\n8.1.1 Internet-scale datasets emergence\n\n\n8.1.2 Cloud computing democratization\n\n\n8.1.3 GPU computing for parallel processing\n\n\n8.1.4 Distributed computing frameworks (MapReduce, Hadoop)"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#deep-learning-breakthrough",
+    "href": "blog/posts/history-of-ai/index.html#deep-learning-breakthrough",
+    "title": "The History of Artificial Intelligence",
+    "section": "8.2 Deep Learning Breakthrough",
+    "text": "8.2 Deep Learning Breakthrough\n\n8.2.1 Geoffrey Hinton’s deep belief networks\n\n\n8.2.2 ImageNet competition and convolutional networks\n\n\n8.2.3 Backpropagation scaling to deeper networks\n\n\n8.2.4 Representation learning and feature discovery"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#the-alignment-problem-recognition",
+    "href": "blog/posts/history-of-ai/index.html#the-alignment-problem-recognition",
+    "title": "The History of Artificial Intelligence",
+    "section": "8.3 The Alignment Problem Recognition",
+    "text": "8.3 The Alignment Problem Recognition\n\n8.3.1 AI safety research emergence\n\n\n8.3.2 Control problem and value alignment\n\n\n8.3.3 Long-term existential risk discussions\n\n\n8.3.4 Stuart Russell and Nick Bostrom’s contributions"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#artificial-general-intelligence-research",
+    "href": "blog/posts/history-of-ai/index.html#artificial-general-intelligence-research",
+    "title": "The History of Artificial Intelligence",
+    "section": "8.4 Artificial General Intelligence Research",
+    "text": "8.4 Artificial General Intelligence Research\n\n8.4.1 AGI as explicit research goal\n\n\n8.4.2 OpenAI and DeepMind founding\n\n\n8.4.3 Different approaches to general intelligence\n\n\n8.4.4 Debate over timelines and feasibility"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#major-milestones-and-achievements",
+    "href": "blog/posts/history-of-ai/index.html#major-milestones-and-achievements",
+    "title": "The History of Artificial Intelligence",
+    "section": "8.5 Major Milestones and Achievements",
+    "text": "8.5 Major Milestones and Achievements\n\n8.5.1 Deep Blue defeats Kasparov (1997)\n\n\n8.5.2 Watson wins Jeopardy! (2011)\n\n\n8.5.3 AlexNet ImageNet victory (2012)\n\n\n8.5.4 AlphaGo defeats world champion (2016)"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#industry-transformation",
+    "href": "blog/posts/history-of-ai/index.html#industry-transformation",
+    "title": "The History of Artificial Intelligence",
+    "section": "8.6 Industry Transformation",
+    "text": "8.6 Industry Transformation\n\n8.6.1 Big Tech AI arms race begins\n\n\n8.6.2 Acquisition of AI startups and talent\n\n\n8.6.3 Open source framework development\n\n\n8.6.4 AI democratization through cloud services"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#transformer-architecture-and-language-models",
+    "href": "blog/posts/history-of-ai/index.html#transformer-architecture-and-language-models",
+    "title": "The History of Artificial Intelligence",
+    "section": "9.1 Transformer Architecture and Language Models",
+    "text": "9.1 Transformer Architecture and Language Models\n\n9.1.1 “Attention is All You Need” paper impact\n\n\n9.1.2 BERT and bidirectional representations\n\n\n9.1.3 GPT series evolution and scale effects\n\n\n9.1.4 Parameter scaling and emergent capabilities"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#the-ai-boom-acceleration",
+    "href": "blog/posts/history-of-ai/index.html#the-ai-boom-acceleration",
+    "title": "The History of Artificial Intelligence",
+    "section": "9.2 The AI Boom Acceleration",
+    "text": "9.2 The AI Boom Acceleration\n\n9.2.1 ChatGPT release and mainstream adoption\n\n\n9.2.2 Generative AI investment surge\n\n\n9.2.3 Competition between tech giants\n\n\n9.2.4 AI startup ecosystem explosion"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#advent-of-ai-for-public-use",
+    "href": "blog/posts/history-of-ai/index.html#advent-of-ai-for-public-use",
+    "title": "The History of Artificial Intelligence",
+    "section": "9.3 Advent of AI for Public Use",
+    "text": "9.3 Advent of AI for Public Use\n\n9.3.1 User-friendly AI interfaces\n\n\n9.3.2 Democratization of AI capabilities\n\n\n9.3.3 Integration into everyday applications\n\n\n9.3.4 Consumer and enterprise adoption"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#nobel-prizes-recognition",
+    "href": "blog/posts/history-of-ai/index.html#nobel-prizes-recognition",
+    "title": "The History of Artificial Intelligence",
+    "section": "9.4 2024 Nobel Prizes Recognition",
+    "text": "9.4 2024 Nobel Prizes Recognition\n\n9.4.1 Geoffrey Hinton and John Hopfield (Physics)\n\n\n9.4.2 Demis Hassabis, John Jumper, David Baker (Chemistry)\n\n\n9.4.3 AI’s contribution to scientific discovery\n\n\n9.4.4 Recognition of AI’s fundamental importance"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#current-developments-and-challenges",
+    "href": "blog/posts/history-of-ai/index.html#current-developments-and-challenges",
+    "title": "The History of Artificial Intelligence",
+    "section": "9.5 Current Developments and Challenges",
+    "text": "9.5 Current Developments and Challenges\n\n9.5.1 Multimodal AI systems (vision, text, audio)\n\n\n9.5.2 AI safety and alignment research intensification\n\n\n9.5.3 Regulatory frameworks development\n\n\n9.5.4 Societal impact and adaptation\n\n\n9.5.5 Artificial General Intelligence pursuit\n\n\n9.5.6 Compute scaling and efficiency improvements"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#technical-challenges",
+    "href": "blog/posts/history-of-ai/index.html#technical-challenges",
+    "title": "The History of Artificial Intelligence",
+    "section": "10.1 Technical Challenges",
+    "text": "10.1 Technical Challenges\n\n10.1.1 Artificial General Intelligence (AGI) pursuit\n\n\n10.1.2 Causal reasoning and world models\n\n\n10.1.3 Continual learning and catastrophic forgetting\n\n\n10.1.4 Embodied AI and robotics integration"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#emerging-paradigms",
+    "href": "blog/posts/history-of-ai/index.html#emerging-paradigms",
+    "title": "The History of Artificial Intelligence",
+    "section": "10.2 Emerging Paradigms",
+    "text": "10.2 Emerging Paradigms\n\n10.2.1 Neuro-symbolic AI hybrid approaches\n\n\n10.2.2 Quantum computing applications\n\n\n10.2.3 Brain-computer interfaces\n\n\n10.2.4 Neuromorphic computing architectures"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#societal-considerations",
+    "href": "blog/posts/history-of-ai/index.html#societal-considerations",
+    "title": "The History of Artificial Intelligence",
+    "section": "10.3 Societal Considerations",
+    "text": "10.3 Societal Considerations\n\n10.3.1 AI governance and international cooperation\n\n\n10.3.2 Economic disruption and job displacement\n\n\n10.3.3 Privacy and surveillance implications\n\n\n10.3.4 Democratic participation in AI development"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#recurring-patterns",
+    "href": "blog/posts/history-of-ai/index.html#recurring-patterns",
+    "title": "The History of Artificial Intelligence",
+    "section": "11.1 Recurring Patterns",
+    "text": "11.1 Recurring Patterns\n\n11.1.1 Hype cycles and their predictable stages\n\n\n11.1.2 Importance of hardware-software co-evolution\n\n\n11.1.3 Value of interdisciplinary collaboration\n\n\n11.1.4 Role of data availability in progress"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#what-history-teaches-us",
+    "href": "blog/posts/history-of-ai/index.html#what-history-teaches-us",
+    "title": "The History of Artificial Intelligence",
+    "section": "11.2 What History Teaches Us",
+    "text": "11.2 What History Teaches Us\n\n11.2.1 Patience with long-term research programs\n\n\n11.2.2 Danger of overpromising and underdelivering\n\n\n11.2.3 Importance of robust evaluation metrics\n\n\n11.2.4 Need for diverse perspectives and approaches"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#preparing-for-the-future",
+    "href": "blog/posts/history-of-ai/index.html#preparing-for-the-future",
+    "title": "The History of Artificial Intelligence",
+    "section": "11.3 Preparing for the Future",
+    "text": "11.3 Preparing for the Future\n\n11.3.1 Building resilient research institutions\n\n\n11.3.2 Fostering responsible AI development\n\n\n11.3.3 Maintaining human agency and control\n\n\n11.3.4 Ensuring broad societal benefit"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#ais-remarkable-journey",
+    "href": "blog/posts/history-of-ai/index.html#ais-remarkable-journey",
+    "title": "The History of Artificial Intelligence",
+    "section": "12.1 AI’s Remarkable Journey",
+    "text": "12.1 AI’s Remarkable Journey\n\n12.1.1 From philosophical speculation to practical reality\n\n\n12.1.2 Exponential acceleration in recent decades\n\n\n12.1.3 Unprecedented potential and challenges ahead"
+  },
+  {
+    "objectID": "blog/posts/history-of-ai/index.html#the-road-ahead",
+    "href": "blog/posts/history-of-ai/index.html#the-road-ahead",
+    "title": "The History of Artificial Intelligence",
+    "section": "12.2 The Road Ahead",
+    "text": "12.2 The Road Ahead\n\n12.2.1 Continued technical progress expectations\n\n\n12.2.2 Importance of wisdom alongside intelligence\n\n\n12.2.3 Need for thoughtful human guidance\n\n\n12.2.4 AI as a tool for human flourishing"
   },
   {
     "objectID": "blog/posts/welcome/index.html",

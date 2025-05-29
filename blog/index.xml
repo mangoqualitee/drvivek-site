@@ -9,8 +9,1026 @@
 <link>https://vivekdeulkar.github.io/blog/</link>
 <atom:link href="https://vivekdeulkar.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.6</generator>
-<lastBuildDate>Thu, 10 Apr 2025 18:30:00 GMT</lastBuildDate>
+<generator>quarto-1.7.31</generator>
+<lastBuildDate>Wed, 28 May 2025 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>The History of Artificial Intelligence</title>
+  <dc:creator>Vishal Paudel</dc:creator>
+  <link>https://vivekdeulkar.github.io/blog/posts/history-of-ai/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Attempting to systematically study the history of any human endeavour is an intellectual hurdle which hides in it a humoungous potential and bears through it a sweet fruit of truth. Such an activity bears flexibility of thought, it sows seeds for lays bare detailed insights and more than any other benefit, it gives strength. But this activity is difficult. To attempt a study of a subject’s evolution is difficult. This more than any other subject, is more so the case with Artificial Intelligence which by its nature spans and crosses so many disciplines that in my opinion no other subject pursuid by humans does. The reason for this is clear. Artificial Intelligence begins at the inate experience of every human being. It starts with that hopelessness of reasoning the experienced reality and ends today at the most colourful intersection of most advanced of human technologies. It crosses border between disciplines, by approach from nueroscience, philosophy and in application from mathematics to biology. Thus it is a tremendous task to attempt studying the history of such an intricate subject. Am I attempting to do such a thing? I do not know. Right now not. Right now, the following document only contains the most curious of happenstances and outlines the outline of the developments of a Giant of a human endeavour. Right now, the following documents only contains an <em>Outline</em> of the evolution of the field of Artificial Intelligence.</p>
+<section id="outline-summary" class="level1 unnumbered">
+<h1 class="unnumbered">Outline Summary</h1>
+<p>The current outline is mostly a product of my reaserach of the topic of this article(?). Most of the inspiration for this outline right now, comes from [the-wikipedia-article] on this subject. The <em>AIM</em> of this currently is to be comprehensive and historically accurate foundation for an eventual article(?) on AI history.</p>
+<section id="brief-remarks-on-the-outline" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="brief-remarks-on-the-outline">Brief Remarks on the Outline</h2>
+<p><strong>Key Decisions Made:</strong></p>
+<ol type="1">
+<li><p><strong>Precursors Section</strong>: The structure from [the-wikipedia-article] revealed I had underemphasized the rich mythological and fictional foundations of AI. So, I have updated outline now with ancient myths (Greek Talos, Jewish Golem), medieval legends, and modern fiction that shaped AI imagination.</p></li>
+<li><p><strong>Periodization</strong>: [the-wikipedia-article] refined the chronology of the Outline. The “Birth of AI” period (1941-1956) now properly includes wartime computing advances, and I’ve separated the later periods more clearly.</p></li>
+<li><p><strong>Institutional Context</strong>: The details from [the-lesswrong-blog]. I have added more sections about specific research centers and their approaches (Stanford logic, MIT anti-logic, Edinburgh), which provides important context for understanding how different AI schools of thought developed.</p></li>
+<li><p><strong>Market and Commercial Aspects</strong>: [the-wikipedia-article] emphasizes the commercial dimension thourougly. I’ve now included in the outline sections for details about AI companies, market cycles, and the business side of AI development.</p></li>
+<li><p><strong>Recent Recognition</strong>: I’ve added a section on 2024 Nobel Prizes - it shows AI’s achievement of scientific respectability and recognition at the highest levels.</p></li>
+</ol>
+<p><strong>Structural Decisions Worth Noting:</strong></p>
+<ul>
+<li>Wikipedia uses broader periods with more overlap, while my original outline was more strictly chronological</li>
+<li>Wikipedia emphasizes the cyclical nature of AI development (winters and booms) more explicitly</li>
+<li>The Wikipedia structure shows how AI “went behind the scenes” during winters, continuing to develop within other fields</li>
+<li>Recent developments are given more weight, reflecting AI’s current prominence</li>
+</ul>
+<p><strong>Depth vs Breadth Trade-offs:</strong></p>
+<p>Right now, the outline maintains more technical depth in areas like specific algorithms and theoretical foundations, while [the-wikipedia-article] structure is more accessible to general readers. For the article, I am considering audience targeting to decide on the appropriate level of technical detail for each section.</p>
+<p>Finally here is the <strong>Outline</strong>:</p>
+</section>
+</section>
+<section id="introduction" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Introduction</h1>
+<section id="what-is-artificial-intelligence" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="what-is-artificial-intelligence"><span class="header-section-number">1.1</span> What is Artificial Intelligence?</h2>
+<section id="defining-intelligence-in-machines" class="level3" data-number="1.1.1">
+<h3 data-number="1.1.1" class="anchored" data-anchor-id="defining-intelligence-in-machines"><span class="header-section-number">1.1.1</span> Defining intelligence in machines</h3>
+</section>
+<section id="the-turing-test-and-early-benchmarks" class="level3" data-number="1.1.2">
+<h3 data-number="1.1.2" class="anchored" data-anchor-id="the-turing-test-and-early-benchmarks"><span class="header-section-number">1.1.2</span> The Turing Test and early benchmarks</h3>
+</section>
+<section id="narrow-vs-general-ai-distinction" class="level3" data-number="1.1.3">
+<h3 data-number="1.1.3" class="anchored" data-anchor-id="narrow-vs-general-ai-distinction"><span class="header-section-number">1.1.3</span> Narrow vs General AI distinction</h3>
+</section>
+</section>
+<section id="why-study-ai-history" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="why-study-ai-history"><span class="header-section-number">1.2</span> Why Study AI History?</h2>
+<section id="understanding-current-limitations-and-capabilities" class="level3" data-number="1.2.1">
+<h3 data-number="1.2.1" class="anchored" data-anchor-id="understanding-current-limitations-and-capabilities"><span class="header-section-number">1.2.1</span> Understanding current limitations and capabilities</h3>
+</section>
+<section id="learning-from-past-hype-cycles-and-winters" class="level3" data-number="1.2.2">
+<h3 data-number="1.2.2" class="anchored" data-anchor-id="learning-from-past-hype-cycles-and-winters"><span class="header-section-number">1.2.2</span> Learning from past hype cycles and winters</h3>
+</section>
+<section id="appreciating-the-interdisciplinary-nature-of-ai-development" class="level3" data-number="1.2.3">
+<h3 data-number="1.2.3" class="anchored" data-anchor-id="appreciating-the-interdisciplinary-nature-of-ai-development"><span class="header-section-number">1.2.3</span> Appreciating the interdisciplinary nature of AI development</h3>
+</section>
+</section>
+</section>
+<section id="precursors-ancient-times---1940s" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Precursors (Ancient Times - 1940s)</h1>
+<section id="mythical-fictional-and-speculative-precursors" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="mythical-fictional-and-speculative-precursors"><span class="header-section-number">2.1</span> Mythical, Fictional, and Speculative Precursors</h2>
+<section id="ancient-myths-and-legends-of-artificial-beings" class="level3" data-number="2.1.1">
+<h3 data-number="2.1.1" class="anchored" data-anchor-id="ancient-myths-and-legends-of-artificial-beings"><span class="header-section-number">2.1.1</span> Ancient myths and legends of artificial beings</h3>
+<section id="greek-myths-talos-pandora-pygmalions-galatea" class="level4" data-number="2.1.1.1">
+<h4 data-number="2.1.1.1" class="anchored" data-anchor-id="greek-myths-talos-pandora-pygmalions-galatea"><span class="header-section-number">2.1.1.1</span> Greek myths: Talos, Pandora, Pygmalion’s Galatea</h4>
+</section>
+<section id="jewish-folklore-the-golem-of-prague" class="level4" data-number="2.1.1.2">
+<h4 data-number="2.1.1.2" class="anchored" data-anchor-id="jewish-folklore-the-golem-of-prague"><span class="header-section-number">2.1.1.2</span> Jewish folklore: the Golem of Prague</h4>
+</section>
+<section id="hindu-and-buddhist-automata-in-religious-texts" class="level4" data-number="2.1.1.3">
+<h4 data-number="2.1.1.3" class="anchored" data-anchor-id="hindu-and-buddhist-automata-in-religious-texts"><span class="header-section-number">2.1.1.3</span> Hindu and Buddhist automata in religious texts</h4>
+</section>
+</section>
+<section id="medieval-legends-of-artificial-beings" class="level3" data-number="2.1.2">
+<h3 data-number="2.1.2" class="anchored" data-anchor-id="medieval-legends-of-artificial-beings"><span class="header-section-number">2.1.2</span> Medieval legends of artificial beings</h3>
+<section id="albertus-magnus-and-thomas-aquinass-brazen-heads" class="level4" data-number="2.1.2.1">
+<h4 data-number="2.1.2.1" class="anchored" data-anchor-id="albertus-magnus-and-thomas-aquinass-brazen-heads"><span class="header-section-number">2.1.2.1</span> Albertus Magnus and Thomas Aquinas’s brazen heads</h4>
+</section>
+<section id="mechanical-servants-in-islamic-golden-age-literature" class="level4" data-number="2.1.2.2">
+<h4 data-number="2.1.2.2" class="anchored" data-anchor-id="mechanical-servants-in-islamic-golden-age-literature"><span class="header-section-number">2.1.2.2</span> Mechanical servants in Islamic Golden Age literature</h4>
+</section>
+<section id="european-clockwork-automata-and-mechanical-marvels" class="level4" data-number="2.1.2.3">
+<h4 data-number="2.1.2.3" class="anchored" data-anchor-id="european-clockwork-automata-and-mechanical-marvels"><span class="header-section-number">2.1.2.3</span> European clockwork automata and mechanical marvels</h4>
+</section>
+</section>
+<section id="modern-fiction-and-speculative-thought" class="level3" data-number="2.1.3">
+<h3 data-number="2.1.3" class="anchored" data-anchor-id="modern-fiction-and-speculative-thought"><span class="header-section-number">2.1.3</span> Modern fiction and speculative thought</h3>
+<section id="mary-shelleys-frankenstein-1818" class="level4" data-number="2.1.3.1">
+<h4 data-number="2.1.3.1" class="anchored" data-anchor-id="mary-shelleys-frankenstein-1818"><span class="header-section-number">2.1.3.1</span> Mary Shelley’s Frankenstein (1818)</h4>
+</section>
+<section id="karel-čapeks-r.u.r.-and-the-word-robot-1920" class="level4" data-number="2.1.3.2">
+<h4 data-number="2.1.3.2" class="anchored" data-anchor-id="karel-čapeks-r.u.r.-and-the-word-robot-1920"><span class="header-section-number">2.1.3.2</span> Karel Čapek’s R.U.R. and the word “robot” (1920)</h4>
+</section>
+<section id="isaac-asimovs-robot-stories-and-three-laws" class="level4" data-number="2.1.3.3">
+<h4 data-number="2.1.3.3" class="anchored" data-anchor-id="isaac-asimovs-robot-stories-and-three-laws"><span class="header-section-number">2.1.3.3</span> Isaac Asimov’s robot stories and Three Laws</h4>
+</section>
+</section>
+</section>
+<section id="historical-automata" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="historical-automata"><span class="header-section-number">2.2</span> Historical Automata</h2>
+<section id="ancient-and-medieval-mechanical-devices" class="level3" data-number="2.2.1">
+<h3 data-number="2.2.1" class="anchored" data-anchor-id="ancient-and-medieval-mechanical-devices"><span class="header-section-number">2.2.1</span> Ancient and medieval mechanical devices</h3>
+<section id="antikythera-mechanism-and-ancient-greek-engineering" class="level4" data-number="2.2.1.1">
+<h4 data-number="2.2.1.1" class="anchored" data-anchor-id="antikythera-mechanism-and-ancient-greek-engineering"><span class="header-section-number">2.2.1.1</span> Antikythera mechanism and ancient Greek engineering</h4>
+</section>
+<section id="al-jazaris-programmable-automata-13th-century" class="level4" data-number="2.2.1.2">
+<h4 data-number="2.2.1.2" class="anchored" data-anchor-id="al-jazaris-programmable-automata-13th-century"><span class="header-section-number">2.2.1.2</span> Al-Jazari’s programmable automata (13th century)</h4>
+</section>
+<section id="european-cathedral-clocks-and-moving-figures" class="level4" data-number="2.2.1.3">
+<h4 data-number="2.2.1.3" class="anchored" data-anchor-id="european-cathedral-clocks-and-moving-figures"><span class="header-section-number">2.2.1.3</span> European cathedral clocks and moving figures</h4>
+</section>
+</section>
+<section id="renaissance-and-enlightenment-automata" class="level3" data-number="2.2.2">
+<h3 data-number="2.2.2" class="anchored" data-anchor-id="renaissance-and-enlightenment-automata"><span class="header-section-number">2.2.2</span> Renaissance and Enlightenment automata</h3>
+<section id="vaucansons-mechanical-duck-and-flute-player" class="level4" data-number="2.2.2.1">
+<h4 data-number="2.2.2.1" class="anchored" data-anchor-id="vaucansons-mechanical-duck-and-flute-player"><span class="header-section-number">2.2.2.1</span> Vaucanson’s mechanical duck and flute player</h4>
+</section>
+<section id="jaquet-droz-familys-writing-and-drawing-automata" class="level4" data-number="2.2.2.2">
+<h4 data-number="2.2.2.2" class="anchored" data-anchor-id="jaquet-droz-familys-writing-and-drawing-automata"><span class="header-section-number">2.2.2.2</span> Jaquet-Droz family’s writing and drawing automata</h4>
+</section>
+<section id="the-turk-kempelens-chess-playing-automaton-hoax" class="level4" data-number="2.2.2.3">
+<h4 data-number="2.2.2.3" class="anchored" data-anchor-id="the-turk-kempelens-chess-playing-automaton-hoax"><span class="header-section-number">2.2.2.3</span> The Turk: Kempelen’s chess-playing automaton hoax</h4>
+</section>
+</section>
+</section>
+<section id="formal-reasoning-foundations" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="formal-reasoning-foundations"><span class="header-section-number">2.3</span> Formal Reasoning Foundations</h2>
+<section id="aristotelian-logic-and-syllogistic-reasoning" class="level3" data-number="2.3.1">
+<h3 data-number="2.3.1" class="anchored" data-anchor-id="aristotelian-logic-and-syllogistic-reasoning"><span class="header-section-number">2.3.1</span> Aristotelian logic and syllogistic reasoning</h3>
+</section>
+<section id="medieval-scholastic-logic-developments" class="level3" data-number="2.3.2">
+<h3 data-number="2.3.2" class="anchored" data-anchor-id="medieval-scholastic-logic-developments"><span class="header-section-number">2.3.2</span> Medieval scholastic logic developments</h3>
+</section>
+<section id="leibnizs-dream-of-universal-reasoning-and-characteristica-universalis" class="level3" data-number="2.3.3">
+<h3 data-number="2.3.3" class="anchored" data-anchor-id="leibnizs-dream-of-universal-reasoning-and-characteristica-universalis"><span class="header-section-number">2.3.3</span> Leibniz’s dream of universal reasoning and characteristica universalis</h3>
+</section>
+<section id="boolean-algebra-and-the-algebra-of-logic" class="level3" data-number="2.3.4">
+<h3 data-number="2.3.4" class="anchored" data-anchor-id="boolean-algebra-and-the-algebra-of-logic"><span class="header-section-number">2.3.4</span> Boolean algebra and the algebra of logic</h3>
+</section>
+<section id="freges-predicate-logic-and-formal-systems" class="level3" data-number="2.3.5">
+<h3 data-number="2.3.5" class="anchored" data-anchor-id="freges-predicate-logic-and-formal-systems"><span class="header-section-number">2.3.5</span> Frege’s predicate logic and formal systems</h3>
+</section>
+</section>
+<section id="mathematical-and-computational-prerequisites" class="level2" data-number="2.4">
+<h2 data-number="2.4" class="anchored" data-anchor-id="mathematical-and-computational-prerequisites"><span class="header-section-number">2.4</span> Mathematical and Computational Prerequisites</h2>
+<section id="gödels-incompleteness-theorems-and-limits-of-formal-systems" class="level3" data-number="2.4.1">
+<h3 data-number="2.4.1" class="anchored" data-anchor-id="gödels-incompleteness-theorems-and-limits-of-formal-systems"><span class="header-section-number">2.4.1</span> Gödel’s incompleteness theorems and limits of formal systems</h3>
+</section>
+<section id="church-turing-thesis-and-computability-theory" class="level3" data-number="2.4.2">
+<h3 data-number="2.4.2" class="anchored" data-anchor-id="church-turing-thesis-and-computability-theory"><span class="header-section-number">2.4.2</span> Church-Turing thesis and computability theory</h3>
+</section>
+<section id="shannons-information-theory-and-switching-circuits" class="level3" data-number="2.4.3">
+<h3 data-number="2.4.3" class="anchored" data-anchor-id="shannons-information-theory-and-switching-circuits"><span class="header-section-number">2.4.3</span> Shannon’s information theory and switching circuits</h3>
+</section>
+<section id="early-mechanical-calculators-pascal-leibniz-babbage" class="level3" data-number="2.4.4">
+<h3 data-number="2.4.4" class="anchored" data-anchor-id="early-mechanical-calculators-pascal-leibniz-babbage"><span class="header-section-number">2.4.4</span> Early mechanical calculators: Pascal, Leibniz, Babbage</h3>
+</section>
+<section id="ada-lovelaces-insights-on-machine-capabilities" class="level3" data-number="2.4.5">
+<h3 data-number="2.4.5" class="anchored" data-anchor-id="ada-lovelaces-insights-on-machine-capabilities"><span class="header-section-number">2.4.5</span> Ada Lovelace’s insights on machine capabilities</h3>
+</section>
+</section>
+</section>
+<section id="birth-of-artificial-intelligence-1941-1956" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Birth of Artificial Intelligence (1941-1956)</h1>
+<section id="wartime-computing-innovations" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="wartime-computing-innovations"><span class="header-section-number">3.1</span> Wartime Computing Innovations</h2>
+<section id="colossus-and-early-electronic-computers" class="level3" data-number="3.1.1">
+<h3 data-number="3.1.1" class="anchored" data-anchor-id="colossus-and-early-electronic-computers"><span class="header-section-number">3.1.1</span> Colossus and early electronic computers</h3>
+</section>
+<section id="cybernetics-and-feedback-control-systems" class="level3" data-number="3.1.2">
+<h3 data-number="3.1.2" class="anchored" data-anchor-id="cybernetics-and-feedback-control-systems"><span class="header-section-number">3.1.2</span> Cybernetics and feedback control systems</h3>
+</section>
+<section id="claude-shannons-information-theory-foundations" class="level3" data-number="3.1.3">
+<h3 data-number="3.1.3" class="anchored" data-anchor-id="claude-shannons-information-theory-foundations"><span class="header-section-number">3.1.3</span> Claude Shannon’s information theory foundations</h3>
+</section>
+</section>
+<section id="the-turing-test-and-machine-intelligence" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="the-turing-test-and-machine-intelligence"><span class="header-section-number">3.2</span> The Turing Test and Machine Intelligence</h2>
+<section id="turings-computing-machinery-and-intelligence-1950" class="level3" data-number="3.2.1">
+<h3 data-number="3.2.1" class="anchored" data-anchor-id="turings-computing-machinery-and-intelligence-1950"><span class="header-section-number">3.2.1</span> Turing’s “Computing Machinery and Intelligence” (1950)</h3>
+</section>
+<section id="the-imitation-game-and-operational-definitions-of-intelligence" class="level3" data-number="3.2.2">
+<h3 data-number="3.2.2" class="anchored" data-anchor-id="the-imitation-game-and-operational-definitions-of-intelligence"><span class="header-section-number">3.2.2</span> The imitation game and operational definitions of intelligence</h3>
+</section>
+<section id="early-philosophical-debates-about-machine-consciousness" class="level3" data-number="3.2.3">
+<h3 data-number="3.2.3" class="anchored" data-anchor-id="early-philosophical-debates-about-machine-consciousness"><span class="header-section-number">3.2.3</span> Early philosophical debates about machine consciousness</h3>
+</section>
+</section>
+<section id="neuroscience-and-hebbian-learning-theory" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="neuroscience-and-hebbian-learning-theory"><span class="header-section-number">3.3</span> Neuroscience and Hebbian Learning Theory</h2>
+<section id="donald-hebbs-the-organization-of-behavior-1949" class="level3" data-number="3.3.1">
+<h3 data-number="3.3.1" class="anchored" data-anchor-id="donald-hebbs-the-organization-of-behavior-1949"><span class="header-section-number">3.3.1</span> Donald Hebb’s “The Organization of Behavior” (1949)</h3>
+</section>
+<section id="neural-plasticity-and-learning-mechanisms" class="level3" data-number="3.3.2">
+<h3 data-number="3.3.2" class="anchored" data-anchor-id="neural-plasticity-and-learning-mechanisms"><span class="header-section-number">3.3.2</span> Neural plasticity and learning mechanisms</h3>
+</section>
+<section id="bridge-between-neuroscience-and-artificial-systems" class="level3" data-number="3.3.3">
+<h3 data-number="3.3.3" class="anchored" data-anchor-id="bridge-between-neuroscience-and-artificial-systems"><span class="header-section-number">3.3.3</span> Bridge between neuroscience and artificial systems</h3>
+</section>
+</section>
+<section id="early-artificial-neural-networks" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="early-artificial-neural-networks"><span class="header-section-number">3.4</span> Early Artificial Neural Networks</h2>
+<section id="mcculloch-pitts-neuron-model-1943" class="level3" data-number="3.4.1">
+<h3 data-number="3.4.1" class="anchored" data-anchor-id="mcculloch-pitts-neuron-model-1943"><span class="header-section-number">3.4.1</span> McCulloch-Pitts neuron model (1943)</h3>
+</section>
+<section id="mathematical-foundations-of-neural-computation" class="level3" data-number="3.4.2">
+<h3 data-number="3.4.2" class="anchored" data-anchor-id="mathematical-foundations-of-neural-computation"><span class="header-section-number">3.4.2</span> Mathematical foundations of neural computation</h3>
+</section>
+<section id="perceptron-development-and-early-learning-algorithms" class="level3" data-number="3.4.3">
+<h3 data-number="3.4.3" class="anchored" data-anchor-id="perceptron-development-and-early-learning-algorithms"><span class="header-section-number">3.4.3</span> Perceptron development and early learning algorithms</h3>
+</section>
+</section>
+<section id="cybernetic-robots-and-control-systems" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="cybernetic-robots-and-control-systems"><span class="header-section-number">3.5</span> Cybernetic Robots and Control Systems</h2>
+<section id="grey-walters-autonomous-robots-elmer-and-elsie" class="level3" data-number="3.5.1">
+<h3 data-number="3.5.1" class="anchored" data-anchor-id="grey-walters-autonomous-robots-elmer-and-elsie"><span class="header-section-number">3.5.1</span> Grey Walter’s autonomous robots (Elmer and Elsie)</h3>
+</section>
+<section id="feedback-control-and-homeostatic-machines" class="level3" data-number="3.5.2">
+<h3 data-number="3.5.2" class="anchored" data-anchor-id="feedback-control-and-homeostatic-machines"><span class="header-section-number">3.5.2</span> Feedback control and homeostatic machines</h3>
+</section>
+<section id="early-robotics-and-autonomous-behavior" class="level3" data-number="3.5.3">
+<h3 data-number="3.5.3" class="anchored" data-anchor-id="early-robotics-and-autonomous-behavior"><span class="header-section-number">3.5.3</span> Early robotics and autonomous behavior</h3>
+</section>
+</section>
+<section id="game-ai-and-strategic-thinking" class="level2" data-number="3.6">
+<h2 data-number="3.6" class="anchored" data-anchor-id="game-ai-and-strategic-thinking"><span class="header-section-number">3.6</span> Game AI and Strategic Thinking</h2>
+<section id="shannons-chess-playing-algorithms" class="level3" data-number="3.6.1">
+<h3 data-number="3.6.1" class="anchored" data-anchor-id="shannons-chess-playing-algorithms"><span class="header-section-number">3.6.1</span> Shannon’s chess-playing algorithms</h3>
+</section>
+<section id="arthur-samuels-checkers-program" class="level3" data-number="3.6.2">
+<h3 data-number="3.6.2" class="anchored" data-anchor-id="arthur-samuels-checkers-program"><span class="header-section-number">3.6.2</span> Arthur Samuel’s checkers program</h3>
+</section>
+<section id="game-theory-applications-to-machine-decision-making" class="level3" data-number="3.6.3">
+<h3 data-number="3.6.3" class="anchored" data-anchor-id="game-theory-applications-to-machine-decision-making"><span class="header-section-number">3.6.3</span> Game theory applications to machine decision-making</h3>
+</section>
+</section>
+<section id="symbolic-reasoning-and-the-logic-theorist" class="level2" data-number="3.7">
+<h2 data-number="3.7" class="anchored" data-anchor-id="symbolic-reasoning-and-the-logic-theorist"><span class="header-section-number">3.7</span> Symbolic Reasoning and the Logic Theorist</h2>
+<section id="newell-and-simons-logic-theorist-program-1956" class="level3" data-number="3.7.1">
+<h3 data-number="3.7.1" class="anchored" data-anchor-id="newell-and-simons-logic-theorist-program-1956"><span class="header-section-number">3.7.1</span> Newell and Simon’s Logic Theorist program (1956)</h3>
+</section>
+<section id="symbolic-manipulation-and-theorem-proving" class="level3" data-number="3.7.2">
+<h3 data-number="3.7.2" class="anchored" data-anchor-id="symbolic-manipulation-and-theorem-proving"><span class="header-section-number">3.7.2</span> Symbolic manipulation and theorem proving</h3>
+</section>
+<section id="general-problem-solver-architecture" class="level3" data-number="3.7.3">
+<h3 data-number="3.7.3" class="anchored" data-anchor-id="general-problem-solver-architecture"><span class="header-section-number">3.7.3</span> General Problem Solver architecture</h3>
+</section>
+</section>
+<section id="the-dartmouth-workshop-1956" class="level2" data-number="3.8">
+<h2 data-number="3.8" class="anchored" data-anchor-id="the-dartmouth-workshop-1956"><span class="header-section-number">3.8</span> The Dartmouth Workshop (1956)</h2>
+<section id="john-mccarthy-coins-artificial-intelligence" class="level3" data-number="3.8.1">
+<h3 data-number="3.8.1" class="anchored" data-anchor-id="john-mccarthy-coins-artificial-intelligence"><span class="header-section-number">3.8.1</span> John McCarthy coins “Artificial Intelligence”</h3>
+</section>
+<section id="key-participants-and-their-research-agendas" class="level3" data-number="3.8.2">
+<h3 data-number="3.8.2" class="anchored" data-anchor-id="key-participants-and-their-research-agendas"><span class="header-section-number">3.8.2</span> Key participants and their research agendas</h3>
+</section>
+<section id="birth-of-ai-as-a-formal-academic-discipline" class="level3" data-number="3.8.3">
+<h3 data-number="3.8.3" class="anchored" data-anchor-id="birth-of-ai-as-a-formal-academic-discipline"><span class="header-section-number">3.8.3</span> Birth of AI as a formal academic discipline</h3>
+</section>
+<section id="initial-optimism-and-ambitious-goals" class="level3" data-number="3.8.4">
+<h3 data-number="3.8.4" class="anchored" data-anchor-id="initial-optimism-and-ambitious-goals"><span class="header-section-number">3.8.4</span> Initial optimism and ambitious goals</h3>
+</section>
+</section>
+<section id="the-cognitive-revolution-context" class="level2" data-number="3.9">
+<h2 data-number="3.9" class="anchored" data-anchor-id="the-cognitive-revolution-context"><span class="header-section-number">3.9</span> The Cognitive Revolution Context</h2>
+<section id="shift-from-behaviorism-to-information-processing" class="level3" data-number="3.9.1">
+<h3 data-number="3.9.1" class="anchored" data-anchor-id="shift-from-behaviorism-to-information-processing"><span class="header-section-number">3.9.1</span> Shift from behaviorism to information processing</h3>
+</section>
+<section id="computer-metaphors-for-human-cognition" class="level3" data-number="3.9.2">
+<h3 data-number="3.9.2" class="anchored" data-anchor-id="computer-metaphors-for-human-cognition"><span class="header-section-number">3.9.2</span> Computer metaphors for human cognition</h3>
+</section>
+<section id="interdisciplinary-collaboration-emergence" class="level3" data-number="3.9.3">
+<h3 data-number="3.9.3" class="anchored" data-anchor-id="interdisciplinary-collaboration-emergence"><span class="header-section-number">3.9.3</span> Interdisciplinary collaboration emergence</h3>
+</section>
+</section>
+</section>
+<section id="early-successes-1956-1974" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Early Successes (1956-1974)</h1>
+<section id="major-approaches-and-methodologies" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="major-approaches-and-methodologies"><span class="header-section-number">4.1</span> Major Approaches and Methodologies</h2>
+<section id="reasoning-planning-and-problem-solving-as-search" class="level3" data-number="4.1.1">
+<h3 data-number="4.1.1" class="anchored" data-anchor-id="reasoning-planning-and-problem-solving-as-search"><span class="header-section-number">4.1.1</span> Reasoning, planning and problem solving as search</h3>
+<section id="state-space-search-and-heuristic-methods" class="level4" data-number="4.1.1.1">
+<h4 data-number="4.1.1.1" class="anchored" data-anchor-id="state-space-search-and-heuristic-methods"><span class="header-section-number">4.1.1.1</span> State space search and heuristic methods</h4>
+</section>
+<section id="means-ends-analysis-and-gps-general-problem-solver" class="level4" data-number="4.1.1.2">
+<h4 data-number="4.1.1.2" class="anchored" data-anchor-id="means-ends-analysis-and-gps-general-problem-solver"><span class="header-section-number">4.1.1.2</span> Means-ends analysis and GPS (General Problem Solver)</h4>
+</section>
+<section id="a-algorithm-and-optimal-pathfinding" class="level4" data-number="4.1.1.3">
+<h4 data-number="4.1.1.3" class="anchored" data-anchor-id="a-algorithm-and-optimal-pathfinding"><span class="header-section-number">4.1.1.3</span> A* algorithm and optimal pathfinding</h4>
+</section>
+</section>
+<section id="natural-language-processing-attempts" class="level3" data-number="4.1.2">
+<h3 data-number="4.1.2" class="anchored" data-anchor-id="natural-language-processing-attempts"><span class="header-section-number">4.1.2</span> Natural language processing attempts</h3>
+<section id="eliza-and-pattern-matching-approaches" class="level4" data-number="4.1.2.1">
+<h4 data-number="4.1.2.1" class="anchored" data-anchor-id="eliza-and-pattern-matching-approaches"><span class="header-section-number">4.1.2.1</span> ELIZA and pattern matching approaches</h4>
+</section>
+<section id="syntactic-parsing-and-grammar-systems" class="level4" data-number="4.1.2.2">
+<h4 data-number="4.1.2.2" class="anchored" data-anchor-id="syntactic-parsing-and-grammar-systems"><span class="header-section-number">4.1.2.2</span> Syntactic parsing and grammar systems</h4>
+</section>
+<section id="early-machine-translation-projects-and-failures" class="level4" data-number="4.1.2.3">
+<h4 data-number="4.1.2.3" class="anchored" data-anchor-id="early-machine-translation-projects-and-failures"><span class="header-section-number">4.1.2.3</span> Early machine translation projects and failures</h4>
+</section>
+</section>
+<section id="micro-worlds-and-constrained-domains" class="level3" data-number="4.1.3">
+<h3 data-number="4.1.3" class="anchored" data-anchor-id="micro-worlds-and-constrained-domains"><span class="header-section-number">4.1.3</span> Micro-worlds and constrained domains</h3>
+<section id="blocks-world-and-spatial-reasoning" class="level4" data-number="4.1.3.1">
+<h4 data-number="4.1.3.1" class="anchored" data-anchor-id="blocks-world-and-spatial-reasoning"><span class="header-section-number">4.1.3.1</span> Blocks World and spatial reasoning</h4>
+</section>
+<section id="shrdlu-and-natural-language-understanding" class="level4" data-number="4.1.3.2">
+<h4 data-number="4.1.3.2" class="anchored" data-anchor-id="shrdlu-and-natural-language-understanding"><span class="header-section-number">4.1.3.2</span> SHRDLU and natural language understanding</h4>
+</section>
+<section id="simplified-domains-for-complex-reasoning" class="level4" data-number="4.1.3.3">
+<h4 data-number="4.1.3.3" class="anchored" data-anchor-id="simplified-domains-for-complex-reasoning"><span class="header-section-number">4.1.3.3</span> Simplified domains for complex reasoning</h4>
+</section>
+</section>
+<section id="perceptrons-and-early-neural-networks" class="level3" data-number="4.1.4">
+<h3 data-number="4.1.4" class="anchored" data-anchor-id="perceptrons-and-early-neural-networks"><span class="header-section-number">4.1.4</span> Perceptrons and early neural networks</h3>
+<section id="rosenblatts-perceptron-learning-algorithm" class="level4" data-number="4.1.4.1">
+<h4 data-number="4.1.4.1" class="anchored" data-anchor-id="rosenblatts-perceptron-learning-algorithm"><span class="header-section-number">4.1.4.1</span> Rosenblatt’s perceptron learning algorithm</h4>
+</section>
+<section id="pattern-recognition-capabilities" class="level4" data-number="4.1.4.2">
+<h4 data-number="4.1.4.2" class="anchored" data-anchor-id="pattern-recognition-capabilities"><span class="header-section-number">4.1.4.2</span> Pattern recognition capabilities</h4>
+</section>
+<section id="minsky-papert-critique-and-limitations" class="level4" data-number="4.1.4.3">
+<h4 data-number="4.1.4.3" class="anchored" data-anchor-id="minsky-papert-critique-and-limitations"><span class="header-section-number">4.1.4.3</span> Minsky-Papert critique and limitations</h4>
+</section>
+</section>
+</section>
+<section id="unbounded-optimism-period" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="unbounded-optimism-period"><span class="header-section-number">4.2</span> Unbounded Optimism Period</h2>
+<section id="predictions-of-rapid-progress-to-human-level-ai" class="level3" data-number="4.2.1">
+<h3 data-number="4.2.1" class="anchored" data-anchor-id="predictions-of-rapid-progress-to-human-level-ai"><span class="header-section-number">4.2.1</span> Predictions of rapid progress to human-level AI</h3>
+</section>
+<section id="herbert-simons-famous-1957-prediction" class="level3" data-number="4.2.2">
+<h3 data-number="4.2.2" class="anchored" data-anchor-id="herbert-simons-famous-1957-prediction"><span class="header-section-number">4.2.2</span> Herbert Simon’s famous 1957 prediction</h3>
+</section>
+<section id="marvin-minskys-timeline-estimates" class="level3" data-number="4.2.3">
+<h3 data-number="4.2.3" class="anchored" data-anchor-id="marvin-minskys-timeline-estimates"><span class="header-section-number">4.2.3</span> Marvin Minsky’s timeline estimates</h3>
+</section>
+<section id="media-coverage-and-public-excitement" class="level3" data-number="4.2.4">
+<h3 data-number="4.2.4" class="anchored" data-anchor-id="media-coverage-and-public-excitement"><span class="header-section-number">4.2.4</span> Media coverage and public excitement</h3>
+</section>
+</section>
+<section id="research-financing-and-institutional-growth" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="research-financing-and-institutional-growth"><span class="header-section-number">4.3</span> Research Financing and Institutional Growth</h2>
+<section id="darpa-arpa-funding-initiatives" class="level3" data-number="4.3.1">
+<h3 data-number="4.3.1" class="anchored" data-anchor-id="darpa-arpa-funding-initiatives"><span class="header-section-number">4.3.1</span> DARPA (ARPA) funding initiatives</h3>
+</section>
+<section id="university-ai-labs-establishment" class="level3" data-number="4.3.2">
+<h3 data-number="4.3.2" class="anchored" data-anchor-id="university-ai-labs-establishment"><span class="header-section-number">4.3.2</span> University AI labs establishment</h3>
+</section>
+<section id="government-interest-in-machine-translation" class="level3" data-number="4.3.3">
+<h3 data-number="4.3.3" class="anchored" data-anchor-id="government-interest-in-machine-translation"><span class="header-section-number">4.3.3</span> Government interest in machine translation</h3>
+</section>
+<section id="private-sector-early-investments" class="level3" data-number="4.3.4">
+<h3 data-number="4.3.4" class="anchored" data-anchor-id="private-sector-early-investments"><span class="header-section-number">4.3.4</span> Private sector early investments</h3>
+</section>
+</section>
+<section id="key-figures-and-their-contributions" class="level2" data-number="4.4">
+<h2 data-number="4.4" class="anchored" data-anchor-id="key-figures-and-their-contributions"><span class="header-section-number">4.4</span> Key Figures and Their Contributions</h2>
+<section id="john-mccarthy-lisp-time-sharing-logic-formalization" class="level3" data-number="4.4.1">
+<h3 data-number="4.4.1" class="anchored" data-anchor-id="john-mccarthy-lisp-time-sharing-logic-formalization"><span class="header-section-number">4.4.1</span> John McCarthy: LISP, time-sharing, logic formalization</h3>
+</section>
+<section id="marvin-minsky-neural-networks-society-of-mind-concepts" class="level3" data-number="4.4.2">
+<h3 data-number="4.4.2" class="anchored" data-anchor-id="marvin-minsky-neural-networks-society-of-mind-concepts"><span class="header-section-number">4.4.2</span> Marvin Minsky: neural networks, Society of Mind concepts</h3>
+</section>
+<section id="allen-newell-and-herbert-simon-problem-solving-paradigms" class="level3" data-number="4.4.3">
+<h3 data-number="4.4.3" class="anchored" data-anchor-id="allen-newell-and-herbert-simon-problem-solving-paradigms"><span class="header-section-number">4.4.3</span> Allen Newell and Herbert Simon: problem-solving paradigms</h3>
+</section>
+<section id="arthur-samuel-machine-learning-and-self-improvement" class="level3" data-number="4.4.4">
+<h3 data-number="4.4.4" class="anchored" data-anchor-id="arthur-samuel-machine-learning-and-self-improvement"><span class="header-section-number">4.4.4</span> Arthur Samuel: machine learning and self-improvement</h3>
+</section>
+<section id="joseph-weizenbaum-eliza-and-human-computer-interaction" class="level3" data-number="4.4.5">
+<h3 data-number="4.4.5" class="anchored" data-anchor-id="joseph-weizenbaum-eliza-and-human-computer-interaction"><span class="header-section-number">4.4.5</span> Joseph Weizenbaum: ELIZA and human-computer interaction</h3>
+</section>
+</section>
+</section>
+<section id="first-ai-winter-1974-1980" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> First AI Winter (1974-1980)</h1>
+<section id="fundamental-problems-emerge" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="fundamental-problems-emerge"><span class="header-section-number">5.1</span> Fundamental Problems Emerge</h2>
+<section id="combinatorial-explosion-in-search-problems" class="level3" data-number="5.1.1">
+<h3 data-number="5.1.1" class="anchored" data-anchor-id="combinatorial-explosion-in-search-problems"><span class="header-section-number">5.1.1</span> Combinatorial explosion in search problems</h3>
+</section>
+<section id="frame-problem-in-knowledge-representation" class="level3" data-number="5.1.2">
+<h3 data-number="5.1.2" class="anchored" data-anchor-id="frame-problem-in-knowledge-representation"><span class="header-section-number">5.1.2</span> Frame problem in knowledge representation</h3>
+</section>
+<section id="brittleness-of-symbolic-reasoning-systems" class="level3" data-number="5.1.3">
+<h3 data-number="5.1.3" class="anchored" data-anchor-id="brittleness-of-symbolic-reasoning-systems"><span class="header-section-number">5.1.3</span> Brittleness of symbolic reasoning systems</h3>
+</section>
+<section id="scaling-challenges-with-real-world-complexity" class="level3" data-number="5.1.4">
+<h3 data-number="5.1.4" class="anchored" data-anchor-id="scaling-challenges-with-real-world-complexity"><span class="header-section-number">5.1.4</span> Scaling challenges with real-world complexity</h3>
+</section>
+</section>
+<section id="dramatic-decrease-in-funding" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="dramatic-decrease-in-funding"><span class="header-section-number">5.2</span> Dramatic Decrease in Funding</h2>
+<section id="lighthill-reports-devastating-critique-uk-1973" class="level3" data-number="5.2.1">
+<h3 data-number="5.2.1" class="anchored" data-anchor-id="lighthill-reports-devastating-critique-uk-1973"><span class="header-section-number">5.2.1</span> Lighthill Report’s devastating critique (UK, 1973)</h3>
+</section>
+<section id="darpa-funding-cuts-in-the-united-states" class="level3" data-number="5.2.2">
+<h3 data-number="5.2.2" class="anchored" data-anchor-id="darpa-funding-cuts-in-the-united-states"><span class="header-section-number">5.2.2</span> DARPA funding cuts in the United States</h3>
+</section>
+<section id="machine-translation-projects-declared-failures" class="level3" data-number="5.2.3">
+<h3 data-number="5.2.3" class="anchored" data-anchor-id="machine-translation-projects-declared-failures"><span class="header-section-number">5.2.3</span> Machine translation projects declared failures</h3>
+</section>
+<section id="university-lab-closures-and-staff-reductions" class="level3" data-number="5.2.4">
+<h3 data-number="5.2.4" class="anchored" data-anchor-id="university-lab-closures-and-staff-reductions"><span class="header-section-number">5.2.4</span> University lab closures and staff reductions</h3>
+</section>
+</section>
+<section id="philosophical-and-ethical-critiques" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="philosophical-and-ethical-critiques"><span class="header-section-number">5.3</span> Philosophical and Ethical Critiques</h2>
+<section id="hubert-dreyfuss-what-computers-cant-do" class="level3" data-number="5.3.1">
+<h3 data-number="5.3.1" class="anchored" data-anchor-id="hubert-dreyfuss-what-computers-cant-do"><span class="header-section-number">5.3.1</span> Hubert Dreyfus’s “What Computers Can’t Do”</h3>
+</section>
+<section id="critique-of-symbol-manipulation-approaches" class="level3" data-number="5.3.2">
+<h3 data-number="5.3.2" class="anchored" data-anchor-id="critique-of-symbol-manipulation-approaches"><span class="header-section-number">5.3.2</span> Critique of symbol manipulation approaches</h3>
+</section>
+<section id="questions-about-embodied-intelligence" class="level3" data-number="5.3.3">
+<h3 data-number="5.3.3" class="anchored" data-anchor-id="questions-about-embodied-intelligence"><span class="header-section-number">5.3.3</span> Questions about embodied intelligence</h3>
+</section>
+<section id="ethical-concerns-about-replacing-human-judgment" class="level3" data-number="5.3.4">
+<h3 data-number="5.3.4" class="anchored" data-anchor-id="ethical-concerns-about-replacing-human-judgment"><span class="header-section-number">5.3.4</span> Ethical concerns about replacing human judgment</h3>
+</section>
+</section>
+<section id="institutional-responses-and-adaptations" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="institutional-responses-and-adaptations"><span class="header-section-number">5.4</span> Institutional Responses and Adaptations</h2>
+<section id="logic-programming-at-stanford-cmu-and-edinburgh" class="level3" data-number="5.4.1">
+<h3 data-number="5.4.1" class="anchored" data-anchor-id="logic-programming-at-stanford-cmu-and-edinburgh"><span class="header-section-number">5.4.1</span> Logic programming at Stanford, CMU, and Edinburgh</h3>
+<section id="prolog-development-and-logic-based-reasoning" class="level4" data-number="5.4.1.1">
+<h4 data-number="5.4.1.1" class="anchored" data-anchor-id="prolog-development-and-logic-based-reasoning"><span class="header-section-number">5.4.1.1</span> Prolog development and logic-based reasoning</h4>
+</section>
+<section id="resolution-theorem-proving-advances" class="level4" data-number="5.4.1.2">
+<h4 data-number="5.4.1.2" class="anchored" data-anchor-id="resolution-theorem-proving-advances"><span class="header-section-number">5.4.1.2</span> Resolution theorem proving advances</h4>
+</section>
+<section id="formal-verification-research" class="level4" data-number="5.4.1.3">
+<h4 data-number="5.4.1.3" class="anchored" data-anchor-id="formal-verification-research"><span class="header-section-number">5.4.1.3</span> Formal verification research</h4>
+</section>
+</section>
+<section id="mits-anti-logic-approach" class="level3" data-number="5.4.2">
+<h3 data-number="5.4.2" class="anchored" data-anchor-id="mits-anti-logic-approach"><span class="header-section-number">5.4.2</span> MIT’s “anti-logic” approach</h3>
+<section id="emphasis-on-procedural-knowledge" class="level4" data-number="5.4.2.1">
+<h4 data-number="5.4.2.1" class="anchored" data-anchor-id="emphasis-on-procedural-knowledge"><span class="header-section-number">5.4.2.1</span> Emphasis on procedural knowledge</h4>
+</section>
+<section id="frame-based-knowledge-representation" class="level4" data-number="5.4.2.2">
+<h4 data-number="5.4.2.2" class="anchored" data-anchor-id="frame-based-knowledge-representation"><span class="header-section-number">5.4.2.2</span> Frame-based knowledge representation</h4>
+</section>
+<section id="commonsense-reasoning-research" class="level4" data-number="5.4.2.3">
+<h4 data-number="5.4.2.3" class="anchored" data-anchor-id="commonsense-reasoning-research"><span class="header-section-number">5.4.2.3</span> Commonsense reasoning research</h4>
+</section>
+</section>
+</section>
+<section id="lessons-and-methodological-shifts" class="level2" data-number="5.5">
+<h2 data-number="5.5" class="anchored" data-anchor-id="lessons-and-methodological-shifts"><span class="header-section-number">5.5</span> Lessons and Methodological Shifts</h2>
+<section id="importance-of-realistic-goal-setting" class="level3" data-number="5.5.1">
+<h3 data-number="5.5.1" class="anchored" data-anchor-id="importance-of-realistic-goal-setting"><span class="header-section-number">5.5.1</span> Importance of realistic goal-setting</h3>
+</section>
+<section id="need-for-rigorous-evaluation-metrics" class="level3" data-number="5.5.2">
+<h3 data-number="5.5.2" class="anchored" data-anchor-id="need-for-rigorous-evaluation-metrics"><span class="header-section-number">5.5.2</span> Need for rigorous evaluation metrics</h3>
+</section>
+<section id="value-of-incremental-over-revolutionary-progress" class="level3" data-number="5.5.3">
+<h3 data-number="5.5.3" class="anchored" data-anchor-id="value-of-incremental-over-revolutionary-progress"><span class="header-section-number">5.5.3</span> Value of incremental over revolutionary progress</h3>
+</section>
+<section id="recognition-of-knowledge-acquisition-bottleneck" class="level3" data-number="5.5.4">
+<h3 data-number="5.5.4" class="anchored" data-anchor-id="recognition-of-knowledge-acquisition-bottleneck"><span class="header-section-number">5.5.4</span> Recognition of knowledge acquisition bottleneck</h3>
+</section>
+</section>
+</section>
+<section id="ai-boom-1980-1987" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> AI Boom (1980-1987)</h1>
+<section id="expert-systems-become-widely-used" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="expert-systems-become-widely-used"><span class="header-section-number">6.1</span> Expert Systems Become Widely Used</h2>
+<section id="dendral-and-mycin-success-stories" class="level3" data-number="6.1.1">
+<h3 data-number="6.1.1" class="anchored" data-anchor-id="dendral-and-mycin-success-stories"><span class="header-section-number">6.1.1</span> DENDRAL and MYCIN success stories</h3>
+</section>
+<section id="commercial-expert-system-shells" class="level3" data-number="6.1.2">
+<h3 data-number="6.1.2" class="anchored" data-anchor-id="commercial-expert-system-shells"><span class="header-section-number">6.1.2</span> Commercial expert system shells</h3>
+</section>
+<section id="rule-based-reasoning-in-industry-applications" class="level3" data-number="6.1.3">
+<h3 data-number="6.1.3" class="anchored" data-anchor-id="rule-based-reasoning-in-industry-applications"><span class="header-section-number">6.1.3</span> Rule-based reasoning in industry applications</h3>
+</section>
+<section id="knowledge-engineering-methodology-development" class="level3" data-number="6.1.4">
+<h3 data-number="6.1.4" class="anchored" data-anchor-id="knowledge-engineering-methodology-development"><span class="header-section-number">6.1.4</span> Knowledge engineering methodology development</h3>
+</section>
+</section>
+<section id="government-funding-increases" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="government-funding-increases"><span class="header-section-number">6.2</span> Government Funding Increases</h2>
+<section id="japanese-fifth-generation-computer-systems-project" class="level3" data-number="6.2.1">
+<h3 data-number="6.2.1" class="anchored" data-anchor-id="japanese-fifth-generation-computer-systems-project"><span class="header-section-number">6.2.1</span> Japanese Fifth Generation Computer Systems project</h3>
+</section>
+<section id="us-strategic-computing-initiative-response" class="level3" data-number="6.2.2">
+<h3 data-number="6.2.2" class="anchored" data-anchor-id="us-strategic-computing-initiative-response"><span class="header-section-number">6.2.2</span> US Strategic Computing Initiative response</h3>
+</section>
+<section id="european-esprit-program-investments" class="level3" data-number="6.2.3">
+<h3 data-number="6.2.3" class="anchored" data-anchor-id="european-esprit-program-investments"><span class="header-section-number">6.2.3</span> European ESPRIT program investments</h3>
+</section>
+<section id="military-ai-applications-funding" class="level3" data-number="6.2.4">
+<h3 data-number="6.2.4" class="anchored" data-anchor-id="military-ai-applications-funding"><span class="header-section-number">6.2.4</span> Military AI applications funding</h3>
+</section>
+</section>
+<section id="the-knowledge-revolution" class="level2" data-number="6.3">
+<h2 data-number="6.3" class="anchored" data-anchor-id="the-knowledge-revolution"><span class="header-section-number">6.3</span> The Knowledge Revolution</h2>
+<section id="knowledge-based-systems-paradigm" class="level3" data-number="6.3.1">
+<h3 data-number="6.3.1" class="anchored" data-anchor-id="knowledge-based-systems-paradigm"><span class="header-section-number">6.3.1</span> Knowledge-based systems paradigm</h3>
+</section>
+<section id="ontology-development-and-knowledge-representation" class="level3" data-number="6.3.2">
+<h3 data-number="6.3.2" class="anchored" data-anchor-id="ontology-development-and-knowledge-representation"><span class="header-section-number">6.3.2</span> Ontology development and knowledge representation</h3>
+</section>
+<section id="inference-engines-and-explanation-facilities" class="level3" data-number="6.3.3">
+<h3 data-number="6.3.3" class="anchored" data-anchor-id="inference-engines-and-explanation-facilities"><span class="header-section-number">6.3.3</span> Inference engines and explanation facilities</h3>
+</section>
+<section id="expert-system-development-tools-and-environments" class="level3" data-number="6.3.4">
+<h3 data-number="6.3.4" class="anchored" data-anchor-id="expert-system-development-tools-and-environments"><span class="header-section-number">6.3.4</span> Expert system development tools and environments</h3>
+</section>
+</section>
+<section id="commercial-ai-market-expansion" class="level2" data-number="6.4">
+<h2 data-number="6.4" class="anchored" data-anchor-id="commercial-ai-market-expansion"><span class="header-section-number">6.4</span> Commercial AI Market Expansion</h2>
+<section id="ai-companies-go-public-symbolics-lmi-intellicorp" class="level3" data-number="6.4.1">
+<h3 data-number="6.4.1" class="anchored" data-anchor-id="ai-companies-go-public-symbolics-lmi-intellicorp"><span class="header-section-number">6.4.1</span> AI companies go public: Symbolics, LMI, IntelliCorp</h3>
+</section>
+<section id="lisp-machine-specialized-hardware" class="level3" data-number="6.4.2">
+<h3 data-number="6.4.2" class="anchored" data-anchor-id="lisp-machine-specialized-hardware"><span class="header-section-number">6.4.2</span> Lisp machine specialized hardware</h3>
+</section>
+<section id="expert-system-consulting-boom" class="level3" data-number="6.4.3">
+<h3 data-number="6.4.3" class="anchored" data-anchor-id="expert-system-consulting-boom"><span class="header-section-number">6.4.3</span> Expert system consulting boom</h3>
+</section>
+<section id="corporate-ai-research-labs-establishment" class="level3" data-number="6.4.4">
+<h3 data-number="6.4.4" class="anchored" data-anchor-id="corporate-ai-research-labs-establishment"><span class="header-section-number">6.4.4</span> Corporate AI research labs establishment</h3>
+</section>
+</section>
+<section id="new-directions-in-the-1980s" class="level2" data-number="6.5">
+<h2 data-number="6.5" class="anchored" data-anchor-id="new-directions-in-the-1980s"><span class="header-section-number">6.5</span> New Directions in the 1980s</h2>
+<section id="revival-of-neural-networks-connectionism" class="level3" data-number="6.5.1">
+<h3 data-number="6.5.1" class="anchored" data-anchor-id="revival-of-neural-networks-connectionism"><span class="header-section-number">6.5.1</span> Revival of neural networks: “connectionism”</h3>
+<section id="parallel-distributed-processing-pdp-volumes" class="level4" data-number="6.5.1.1">
+<h4 data-number="6.5.1.1" class="anchored" data-anchor-id="parallel-distributed-processing-pdp-volumes"><span class="header-section-number">6.5.1.1</span> Parallel distributed processing (PDP) volumes</h4>
+</section>
+<section id="backpropagation-algorithm-rediscovery" class="level4" data-number="6.5.1.2">
+<h4 data-number="6.5.1.2" class="anchored" data-anchor-id="backpropagation-algorithm-rediscovery"><span class="header-section-number">6.5.1.2</span> Backpropagation algorithm rediscovery</h4>
+</section>
+<section id="neural-network-hardware-development" class="level4" data-number="6.5.1.3">
+<h4 data-number="6.5.1.3" class="anchored" data-anchor-id="neural-network-hardware-development"><span class="header-section-number">6.5.1.3</span> Neural network hardware development</h4>
+</section>
+<section id="connectionist-vs-symbolic-ai-debates" class="level4" data-number="6.5.1.4">
+<h4 data-number="6.5.1.4" class="anchored" data-anchor-id="connectionist-vs-symbolic-ai-debates"><span class="header-section-number">6.5.1.4</span> Connectionist vs symbolic AI debates</h4>
+</section>
+</section>
+<section id="robotics-and-embodied-reasoning" class="level3" data-number="6.5.2">
+<h3 data-number="6.5.2" class="anchored" data-anchor-id="robotics-and-embodied-reasoning"><span class="header-section-number">6.5.2</span> Robotics and embodied reasoning</h3>
+<section id="mobile-robot-navigation-systems" class="level4" data-number="6.5.2.1">
+<h4 data-number="6.5.2.1" class="anchored" data-anchor-id="mobile-robot-navigation-systems"><span class="header-section-number">6.5.2.1</span> Mobile robot navigation systems</h4>
+</section>
+<section id="computer-vision-for-robotics" class="level4" data-number="6.5.2.2">
+<h4 data-number="6.5.2.2" class="anchored" data-anchor-id="computer-vision-for-robotics"><span class="header-section-number">6.5.2.2</span> Computer vision for robotics</h4>
+</section>
+<section id="sensor-fusion-and-real-world-interaction" class="level4" data-number="6.5.2.3">
+<h4 data-number="6.5.2.3" class="anchored" data-anchor-id="sensor-fusion-and-real-world-interaction"><span class="header-section-number">6.5.2.3</span> Sensor fusion and real-world interaction</h4>
+</section>
+<section id="behavior-based-robotics-emergence" class="level4" data-number="6.5.2.4">
+<h4 data-number="6.5.2.4" class="anchored" data-anchor-id="behavior-based-robotics-emergence"><span class="header-section-number">6.5.2.4</span> Behavior-based robotics emergence</h4>
+</section>
+</section>
+<section id="soft-computing-and-probabilistic-reasoning" class="level3" data-number="6.5.3">
+<h3 data-number="6.5.3" class="anchored" data-anchor-id="soft-computing-and-probabilistic-reasoning"><span class="header-section-number">6.5.3</span> Soft computing and probabilistic reasoning</h3>
+<section id="fuzzy-logic-systems-development" class="level4" data-number="6.5.3.1">
+<h4 data-number="6.5.3.1" class="anchored" data-anchor-id="fuzzy-logic-systems-development"><span class="header-section-number">6.5.3.1</span> Fuzzy logic systems development</h4>
+</section>
+<section id="uncertainty-handling-in-expert-systems" class="level4" data-number="6.5.3.2">
+<h4 data-number="6.5.3.2" class="anchored" data-anchor-id="uncertainty-handling-in-expert-systems"><span class="header-section-number">6.5.3.2</span> Uncertainty handling in expert systems</h4>
+</section>
+<section id="probabilistic-inference-methods" class="level4" data-number="6.5.3.3">
+<h4 data-number="6.5.3.3" class="anchored" data-anchor-id="probabilistic-inference-methods"><span class="header-section-number">6.5.3.3</span> Probabilistic inference methods</h4>
+</section>
+<section id="hybrid-symbolic-numeric-approaches" class="level4" data-number="6.5.3.4">
+<h4 data-number="6.5.3.4" class="anchored" data-anchor-id="hybrid-symbolic-numeric-approaches"><span class="header-section-number">6.5.3.4</span> Hybrid symbolic-numeric approaches</h4>
+</section>
+</section>
+<section id="reinforcement-learning-foundations" class="level3" data-number="6.5.4">
+<h3 data-number="6.5.4" class="anchored" data-anchor-id="reinforcement-learning-foundations"><span class="header-section-number">6.5.4</span> Reinforcement learning foundations</h3>
+<section id="temporal-difference-learning" class="level4" data-number="6.5.4.1">
+<h4 data-number="6.5.4.1" class="anchored" data-anchor-id="temporal-difference-learning"><span class="header-section-number">6.5.4.1</span> Temporal difference learning</h4>
+</section>
+<section id="q-learning-algorithm-development" class="level4" data-number="6.5.4.2">
+<h4 data-number="6.5.4.2" class="anchored" data-anchor-id="q-learning-algorithm-development"><span class="header-section-number">6.5.4.2</span> Q-learning algorithm development</h4>
+</section>
+<section id="markov-decision-process-formalization" class="level4" data-number="6.5.4.3">
+<h4 data-number="6.5.4.3" class="anchored" data-anchor-id="markov-decision-process-formalization"><span class="header-section-number">6.5.4.3</span> Markov decision process formalization</h4>
+</section>
+<section id="learning-from-interaction-paradigms" class="level4" data-number="6.5.4.4">
+<h4 data-number="6.5.4.4" class="anchored" data-anchor-id="learning-from-interaction-paradigms"><span class="header-section-number">6.5.4.4</span> Learning from interaction paradigms</h4>
+</section>
+</section>
+</section>
+</section>
+<section id="second-ai-winter-1987-1993" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Second AI Winter (1987-1993)</h1>
+<section id="ai-winter-market-collapse" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="ai-winter-market-collapse"><span class="header-section-number">7.1</span> AI Winter Market Collapse</h2>
+<section id="lisp-machine-companies-bankruptcy" class="level3" data-number="7.1.1">
+<h3 data-number="7.1.1" class="anchored" data-anchor-id="lisp-machine-companies-bankruptcy"><span class="header-section-number">7.1.1</span> Lisp machine companies bankruptcy</h3>
+</section>
+<section id="expert-systems-market-crash-and-disillusionment" class="level3" data-number="7.1.2">
+<h3 data-number="7.1.2" class="anchored" data-anchor-id="expert-systems-market-crash-and-disillusionment"><span class="header-section-number">7.1.2</span> Expert systems market crash and disillusionment</h3>
+</section>
+<section id="end-of-japanese-fifth-generation-project" class="level3" data-number="7.1.3">
+<h3 data-number="7.1.3" class="anchored" data-anchor-id="end-of-japanese-fifth-generation-project"><span class="header-section-number">7.1.3</span> End of Japanese Fifth Generation project</h3>
+</section>
+<section id="venture-capital-withdrawal-from-ai-sector" class="level3" data-number="7.1.4">
+<h3 data-number="7.1.4" class="anchored" data-anchor-id="venture-capital-withdrawal-from-ai-sector"><span class="header-section-number">7.1.4</span> Venture capital withdrawal from AI sector</h3>
+</section>
+</section>
+<section id="technical-limitations-exposed" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="technical-limitations-exposed"><span class="header-section-number">7.2</span> Technical Limitations Exposed</h2>
+<section id="scaling-problems-with-symbolic-approaches" class="level3" data-number="7.2.1">
+<h3 data-number="7.2.1" class="anchored" data-anchor-id="scaling-problems-with-symbolic-approaches"><span class="header-section-number">7.2.1</span> Scaling problems with symbolic approaches</h3>
+</section>
+<section id="knowledge-acquisition-bottleneck-persists" class="level3" data-number="7.2.2">
+<h3 data-number="7.2.2" class="anchored" data-anchor-id="knowledge-acquisition-bottleneck-persists"><span class="header-section-number">7.2.2</span> Knowledge acquisition bottleneck persists</h3>
+</section>
+<section id="brittleness-in-real-world-applications" class="level3" data-number="7.2.3">
+<h3 data-number="7.2.3" class="anchored" data-anchor-id="brittleness-in-real-world-applications"><span class="header-section-number">7.2.3</span> Brittleness in real-world applications</h3>
+</section>
+<section id="maintenance-costs-exceed-benefits" class="level3" data-number="7.2.4">
+<h3 data-number="7.2.4" class="anchored" data-anchor-id="maintenance-costs-exceed-benefits"><span class="header-section-number">7.2.4</span> Maintenance costs exceed benefits</h3>
+</section>
+</section>
+<section id="ai-research-goes-behind-the-scenes" class="level2" data-number="7.3">
+<h2 data-number="7.3" class="anchored" data-anchor-id="ai-research-goes-behind-the-scenes"><span class="header-section-number">7.3</span> AI Research Goes Behind the Scenes</h2>
+<section id="integration-into-other-computer-science-fields" class="level3" data-number="7.3.1">
+<h3 data-number="7.3.1" class="anchored" data-anchor-id="integration-into-other-computer-science-fields"><span class="header-section-number">7.3.1</span> Integration into other computer science fields</h3>
+</section>
+<section id="gradual-embedding-in-practical-applications" class="level3" data-number="7.3.2">
+<h3 data-number="7.3.2" class="anchored" data-anchor-id="gradual-embedding-in-practical-applications"><span class="header-section-number">7.3.2</span> Gradual embedding in practical applications</h3>
+</section>
+<section id="less-visible-but-continued-progress" class="level3" data-number="7.3.3">
+<h3 data-number="7.3.3" class="anchored" data-anchor-id="less-visible-but-continued-progress"><span class="header-section-number">7.3.3</span> Less visible but continued progress</h3>
+</section>
+<section id="focus-shifts-from-ai-as-brand-to-useful-techniques" class="level3" data-number="7.3.4">
+<h3 data-number="7.3.4" class="anchored" data-anchor-id="focus-shifts-from-ai-as-brand-to-useful-techniques"><span class="header-section-number">7.3.4</span> Focus shifts from AI as brand to useful techniques</h3>
+</section>
+</section>
+<section id="mathematical-rigor-and-methodological-changes" class="level2" data-number="7.4">
+<h2 data-number="7.4" class="anchored" data-anchor-id="mathematical-rigor-and-methodological-changes"><span class="header-section-number">7.4</span> Mathematical Rigor and Methodological Changes</h2>
+<section id="greater-emphasis-on-statistical-methods" class="level3" data-number="7.4.1">
+<h3 data-number="7.4.1" class="anchored" data-anchor-id="greater-emphasis-on-statistical-methods"><span class="header-section-number">7.4.1</span> Greater emphasis on statistical methods</h3>
+</section>
+<section id="rigorous-evaluation-protocols-development" class="level3" data-number="7.4.2">
+<h3 data-number="7.4.2" class="anchored" data-anchor-id="rigorous-evaluation-protocols-development"><span class="header-section-number">7.4.2</span> Rigorous evaluation protocols development</h3>
+</section>
+<section id="collaboration-with-statistics-and-optimization" class="level3" data-number="7.4.3">
+<h3 data-number="7.4.3" class="anchored" data-anchor-id="collaboration-with-statistics-and-optimization"><span class="header-section-number">7.4.3</span> Collaboration with statistics and optimization</h3>
+</section>
+<section id="move-away-from-grand-unified-theories" class="level3" data-number="7.4.4">
+<h3 data-number="7.4.4" class="anchored" data-anchor-id="move-away-from-grand-unified-theories"><span class="header-section-number">7.4.4</span> Move away from grand unified theories</h3>
+</section>
+</section>
+<section id="narrow-focus-and-specialized-applications" class="level2" data-number="7.5">
+<h2 data-number="7.5" class="anchored" data-anchor-id="narrow-focus-and-specialized-applications"><span class="header-section-number">7.5</span> Narrow Focus and Specialized Applications</h2>
+<section id="constraint-satisfaction-problems" class="level3" data-number="7.5.1">
+<h3 data-number="7.5.1" class="anchored" data-anchor-id="constraint-satisfaction-problems"><span class="header-section-number">7.5.1</span> Constraint satisfaction problems</h3>
+</section>
+<section id="automated-reasoning-in-specific-domains" class="level3" data-number="7.5.2">
+<h3 data-number="7.5.2" class="anchored" data-anchor-id="automated-reasoning-in-specific-domains"><span class="header-section-number">7.5.2</span> Automated reasoning in specific domains</h3>
+</section>
+<section id="machine-learning-for-particular-tasks" class="level3" data-number="7.5.3">
+<h3 data-number="7.5.3" class="anchored" data-anchor-id="machine-learning-for-particular-tasks"><span class="header-section-number">7.5.3</span> Machine learning for particular tasks</h3>
+</section>
+<section id="computer-vision-for-industrial-applications" class="level3" data-number="7.5.4">
+<h3 data-number="7.5.4" class="anchored" data-anchor-id="computer-vision-for-industrial-applications"><span class="header-section-number">7.5.4</span> Computer vision for industrial applications</h3>
+</section>
+</section>
+<section id="intelligent-agents-paradigm-emergence" class="level2" data-number="7.6">
+<h2 data-number="7.6" class="anchored" data-anchor-id="intelligent-agents-paradigm-emergence"><span class="header-section-number">7.6</span> Intelligent Agents Paradigm Emergence</h2>
+<section id="agent-oriented-programming-concepts" class="level3" data-number="7.6.1">
+<h3 data-number="7.6.1" class="anchored" data-anchor-id="agent-oriented-programming-concepts"><span class="header-section-number">7.6.1</span> Agent-oriented programming concepts</h3>
+</section>
+<section id="distributed-problem-solving" class="level3" data-number="7.6.2">
+<h3 data-number="7.6.2" class="anchored" data-anchor-id="distributed-problem-solving"><span class="header-section-number">7.6.2</span> Distributed problem solving</h3>
+</section>
+<section id="multi-agent-systems-research" class="level3" data-number="7.6.3">
+<h3 data-number="7.6.3" class="anchored" data-anchor-id="multi-agent-systems-research"><span class="header-section-number">7.6.3</span> Multi-agent systems research</h3>
+</section>
+<section id="software-agents-and-autonomous-systems" class="level3" data-number="7.6.4">
+<h3 data-number="7.6.4" class="anchored" data-anchor-id="software-agents-and-autonomous-systems"><span class="header-section-number">7.6.4</span> Software agents and autonomous systems</h3>
+</section>
+</section>
+<section id="milestones-despite-the-winter" class="level2" data-number="7.7">
+<h2 data-number="7.7" class="anchored" data-anchor-id="milestones-despite-the-winter"><span class="header-section-number">7.7</span> Milestones Despite the Winter</h2>
+<section id="continued-progress-in-specialized-areas" class="level3" data-number="7.7.1">
+<h3 data-number="7.7.1" class="anchored" data-anchor-id="continued-progress-in-specialized-areas"><span class="header-section-number">7.7.1</span> Continued progress in specialized areas</h3>
+</section>
+<section id="moores-law-enabling-new-possibilities" class="level3" data-number="7.7.2">
+<h3 data-number="7.7.2" class="anchored" data-anchor-id="moores-law-enabling-new-possibilities"><span class="header-section-number">7.7.2</span> Moore’s Law enabling new possibilities</h3>
+</section>
+<section id="internet-creating-new-data-sources" class="level3" data-number="7.7.3">
+<h3 data-number="7.7.3" class="anchored" data-anchor-id="internet-creating-new-data-sources"><span class="header-section-number">7.7.3</span> Internet creating new data sources</h3>
+</section>
+<section id="gradual-accumulation-of-practical-successes" class="level3" data-number="7.7.4">
+<h3 data-number="7.7.4" class="anchored" data-anchor-id="gradual-accumulation-of-practical-successes"><span class="header-section-number">7.7.4</span> Gradual accumulation of practical successes</h3>
+</section>
+</section>
+</section>
+<section id="big-data-deep-learning-and-agi-research-2005-2017" class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> Big Data, Deep Learning, and AGI Research (2005-2017)</h1>
+<section id="big-data-and-computational-revolution" class="level2" data-number="8.1">
+<h2 data-number="8.1" class="anchored" data-anchor-id="big-data-and-computational-revolution"><span class="header-section-number">8.1</span> Big Data and Computational Revolution</h2>
+<section id="internet-scale-datasets-emergence" class="level3" data-number="8.1.1">
+<h3 data-number="8.1.1" class="anchored" data-anchor-id="internet-scale-datasets-emergence"><span class="header-section-number">8.1.1</span> Internet-scale datasets emergence</h3>
+</section>
+<section id="cloud-computing-democratization" class="level3" data-number="8.1.2">
+<h3 data-number="8.1.2" class="anchored" data-anchor-id="cloud-computing-democratization"><span class="header-section-number">8.1.2</span> Cloud computing democratization</h3>
+</section>
+<section id="gpu-computing-for-parallel-processing" class="level3" data-number="8.1.3">
+<h3 data-number="8.1.3" class="anchored" data-anchor-id="gpu-computing-for-parallel-processing"><span class="header-section-number">8.1.3</span> GPU computing for parallel processing</h3>
+</section>
+<section id="distributed-computing-frameworks-mapreduce-hadoop" class="level3" data-number="8.1.4">
+<h3 data-number="8.1.4" class="anchored" data-anchor-id="distributed-computing-frameworks-mapreduce-hadoop"><span class="header-section-number">8.1.4</span> Distributed computing frameworks (MapReduce, Hadoop)</h3>
+</section>
+</section>
+<section id="deep-learning-breakthrough" class="level2" data-number="8.2">
+<h2 data-number="8.2" class="anchored" data-anchor-id="deep-learning-breakthrough"><span class="header-section-number">8.2</span> Deep Learning Breakthrough</h2>
+<section id="geoffrey-hintons-deep-belief-networks" class="level3" data-number="8.2.1">
+<h3 data-number="8.2.1" class="anchored" data-anchor-id="geoffrey-hintons-deep-belief-networks"><span class="header-section-number">8.2.1</span> Geoffrey Hinton’s deep belief networks</h3>
+</section>
+<section id="imagenet-competition-and-convolutional-networks" class="level3" data-number="8.2.2">
+<h3 data-number="8.2.2" class="anchored" data-anchor-id="imagenet-competition-and-convolutional-networks"><span class="header-section-number">8.2.2</span> ImageNet competition and convolutional networks</h3>
+</section>
+<section id="backpropagation-scaling-to-deeper-networks" class="level3" data-number="8.2.3">
+<h3 data-number="8.2.3" class="anchored" data-anchor-id="backpropagation-scaling-to-deeper-networks"><span class="header-section-number">8.2.3</span> Backpropagation scaling to deeper networks</h3>
+</section>
+<section id="representation-learning-and-feature-discovery" class="level3" data-number="8.2.4">
+<h3 data-number="8.2.4" class="anchored" data-anchor-id="representation-learning-and-feature-discovery"><span class="header-section-number">8.2.4</span> Representation learning and feature discovery</h3>
+</section>
+</section>
+<section id="the-alignment-problem-recognition" class="level2" data-number="8.3">
+<h2 data-number="8.3" class="anchored" data-anchor-id="the-alignment-problem-recognition"><span class="header-section-number">8.3</span> The Alignment Problem Recognition</h2>
+<section id="ai-safety-research-emergence" class="level3" data-number="8.3.1">
+<h3 data-number="8.3.1" class="anchored" data-anchor-id="ai-safety-research-emergence"><span class="header-section-number">8.3.1</span> AI safety research emergence</h3>
+</section>
+<section id="control-problem-and-value-alignment" class="level3" data-number="8.3.2">
+<h3 data-number="8.3.2" class="anchored" data-anchor-id="control-problem-and-value-alignment"><span class="header-section-number">8.3.2</span> Control problem and value alignment</h3>
+</section>
+<section id="long-term-existential-risk-discussions" class="level3" data-number="8.3.3">
+<h3 data-number="8.3.3" class="anchored" data-anchor-id="long-term-existential-risk-discussions"><span class="header-section-number">8.3.3</span> Long-term existential risk discussions</h3>
+</section>
+<section id="stuart-russell-and-nick-bostroms-contributions" class="level3" data-number="8.3.4">
+<h3 data-number="8.3.4" class="anchored" data-anchor-id="stuart-russell-and-nick-bostroms-contributions"><span class="header-section-number">8.3.4</span> Stuart Russell and Nick Bostrom’s contributions</h3>
+</section>
+</section>
+<section id="artificial-general-intelligence-research" class="level2" data-number="8.4">
+<h2 data-number="8.4" class="anchored" data-anchor-id="artificial-general-intelligence-research"><span class="header-section-number">8.4</span> Artificial General Intelligence Research</h2>
+<section id="agi-as-explicit-research-goal" class="level3" data-number="8.4.1">
+<h3 data-number="8.4.1" class="anchored" data-anchor-id="agi-as-explicit-research-goal"><span class="header-section-number">8.4.1</span> AGI as explicit research goal</h3>
+</section>
+<section id="openai-and-deepmind-founding" class="level3" data-number="8.4.2">
+<h3 data-number="8.4.2" class="anchored" data-anchor-id="openai-and-deepmind-founding"><span class="header-section-number">8.4.2</span> OpenAI and DeepMind founding</h3>
+</section>
+<section id="different-approaches-to-general-intelligence" class="level3" data-number="8.4.3">
+<h3 data-number="8.4.3" class="anchored" data-anchor-id="different-approaches-to-general-intelligence"><span class="header-section-number">8.4.3</span> Different approaches to general intelligence</h3>
+</section>
+<section id="debate-over-timelines-and-feasibility" class="level3" data-number="8.4.4">
+<h3 data-number="8.4.4" class="anchored" data-anchor-id="debate-over-timelines-and-feasibility"><span class="header-section-number">8.4.4</span> Debate over timelines and feasibility</h3>
+</section>
+</section>
+<section id="major-milestones-and-achievements" class="level2" data-number="8.5">
+<h2 data-number="8.5" class="anchored" data-anchor-id="major-milestones-and-achievements"><span class="header-section-number">8.5</span> Major Milestones and Achievements</h2>
+<section id="deep-blue-defeats-kasparov-1997" class="level3" data-number="8.5.1">
+<h3 data-number="8.5.1" class="anchored" data-anchor-id="deep-blue-defeats-kasparov-1997"><span class="header-section-number">8.5.1</span> Deep Blue defeats Kasparov (1997)</h3>
+</section>
+<section id="watson-wins-jeopardy-2011" class="level3" data-number="8.5.2">
+<h3 data-number="8.5.2" class="anchored" data-anchor-id="watson-wins-jeopardy-2011"><span class="header-section-number">8.5.2</span> Watson wins Jeopardy! (2011)</h3>
+</section>
+<section id="alexnet-imagenet-victory-2012" class="level3" data-number="8.5.3">
+<h3 data-number="8.5.3" class="anchored" data-anchor-id="alexnet-imagenet-victory-2012"><span class="header-section-number">8.5.3</span> AlexNet ImageNet victory (2012)</h3>
+</section>
+<section id="alphago-defeats-world-champion-2016" class="level3" data-number="8.5.4">
+<h3 data-number="8.5.4" class="anchored" data-anchor-id="alphago-defeats-world-champion-2016"><span class="header-section-number">8.5.4</span> AlphaGo defeats world champion (2016)</h3>
+</section>
+</section>
+<section id="industry-transformation" class="level2" data-number="8.6">
+<h2 data-number="8.6" class="anchored" data-anchor-id="industry-transformation"><span class="header-section-number">8.6</span> Industry Transformation</h2>
+<section id="big-tech-ai-arms-race-begins" class="level3" data-number="8.6.1">
+<h3 data-number="8.6.1" class="anchored" data-anchor-id="big-tech-ai-arms-race-begins"><span class="header-section-number">8.6.1</span> Big Tech AI arms race begins</h3>
+</section>
+<section id="acquisition-of-ai-startups-and-talent" class="level3" data-number="8.6.2">
+<h3 data-number="8.6.2" class="anchored" data-anchor-id="acquisition-of-ai-startups-and-talent"><span class="header-section-number">8.6.2</span> Acquisition of AI startups and talent</h3>
+</section>
+<section id="open-source-framework-development" class="level3" data-number="8.6.3">
+<h3 data-number="8.6.3" class="anchored" data-anchor-id="open-source-framework-development"><span class="header-section-number">8.6.3</span> Open source framework development</h3>
+</section>
+<section id="ai-democratization-through-cloud-services" class="level3" data-number="8.6.4">
+<h3 data-number="8.6.4" class="anchored" data-anchor-id="ai-democratization-through-cloud-services"><span class="header-section-number">8.6.4</span> AI democratization through cloud services</h3>
+</section>
+</section>
+</section>
+<section id="large-language-models-and-ai-boom-2020-present" class="level1" data-number="9">
+<h1 data-number="9"><span class="header-section-number">9</span> Large Language Models and AI Boom (2020-Present)</h1>
+<section id="transformer-architecture-and-language-models" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="transformer-architecture-and-language-models"><span class="header-section-number">9.1</span> Transformer Architecture and Language Models</h2>
+<section id="attention-is-all-you-need-paper-impact" class="level3" data-number="9.1.1">
+<h3 data-number="9.1.1" class="anchored" data-anchor-id="attention-is-all-you-need-paper-impact"><span class="header-section-number">9.1.1</span> “Attention is All You Need” paper impact</h3>
+</section>
+<section id="bert-and-bidirectional-representations" class="level3" data-number="9.1.2">
+<h3 data-number="9.1.2" class="anchored" data-anchor-id="bert-and-bidirectional-representations"><span class="header-section-number">9.1.2</span> BERT and bidirectional representations</h3>
+</section>
+<section id="gpt-series-evolution-and-scale-effects" class="level3" data-number="9.1.3">
+<h3 data-number="9.1.3" class="anchored" data-anchor-id="gpt-series-evolution-and-scale-effects"><span class="header-section-number">9.1.3</span> GPT series evolution and scale effects</h3>
+</section>
+<section id="parameter-scaling-and-emergent-capabilities" class="level3" data-number="9.1.4">
+<h3 data-number="9.1.4" class="anchored" data-anchor-id="parameter-scaling-and-emergent-capabilities"><span class="header-section-number">9.1.4</span> Parameter scaling and emergent capabilities</h3>
+</section>
+</section>
+<section id="the-ai-boom-acceleration" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="the-ai-boom-acceleration"><span class="header-section-number">9.2</span> The AI Boom Acceleration</h2>
+<section id="chatgpt-release-and-mainstream-adoption" class="level3" data-number="9.2.1">
+<h3 data-number="9.2.1" class="anchored" data-anchor-id="chatgpt-release-and-mainstream-adoption"><span class="header-section-number">9.2.1</span> ChatGPT release and mainstream adoption</h3>
+</section>
+<section id="generative-ai-investment-surge" class="level3" data-number="9.2.2">
+<h3 data-number="9.2.2" class="anchored" data-anchor-id="generative-ai-investment-surge"><span class="header-section-number">9.2.2</span> Generative AI investment surge</h3>
+</section>
+<section id="competition-between-tech-giants" class="level3" data-number="9.2.3">
+<h3 data-number="9.2.3" class="anchored" data-anchor-id="competition-between-tech-giants"><span class="header-section-number">9.2.3</span> Competition between tech giants</h3>
+</section>
+<section id="ai-startup-ecosystem-explosion" class="level3" data-number="9.2.4">
+<h3 data-number="9.2.4" class="anchored" data-anchor-id="ai-startup-ecosystem-explosion"><span class="header-section-number">9.2.4</span> AI startup ecosystem explosion</h3>
+</section>
+</section>
+<section id="advent-of-ai-for-public-use" class="level2" data-number="9.3">
+<h2 data-number="9.3" class="anchored" data-anchor-id="advent-of-ai-for-public-use"><span class="header-section-number">9.3</span> Advent of AI for Public Use</h2>
+<section id="user-friendly-ai-interfaces" class="level3" data-number="9.3.1">
+<h3 data-number="9.3.1" class="anchored" data-anchor-id="user-friendly-ai-interfaces"><span class="header-section-number">9.3.1</span> User-friendly AI interfaces</h3>
+</section>
+<section id="democratization-of-ai-capabilities" class="level3" data-number="9.3.2">
+<h3 data-number="9.3.2" class="anchored" data-anchor-id="democratization-of-ai-capabilities"><span class="header-section-number">9.3.2</span> Democratization of AI capabilities</h3>
+</section>
+<section id="integration-into-everyday-applications" class="level3" data-number="9.3.3">
+<h3 data-number="9.3.3" class="anchored" data-anchor-id="integration-into-everyday-applications"><span class="header-section-number">9.3.3</span> Integration into everyday applications</h3>
+</section>
+<section id="consumer-and-enterprise-adoption" class="level3" data-number="9.3.4">
+<h3 data-number="9.3.4" class="anchored" data-anchor-id="consumer-and-enterprise-adoption"><span class="header-section-number">9.3.4</span> Consumer and enterprise adoption</h3>
+</section>
+</section>
+<section id="nobel-prizes-recognition" class="level2" data-number="9.4">
+<h2 data-number="9.4" class="anchored" data-anchor-id="nobel-prizes-recognition"><span class="header-section-number">9.4</span> 2024 Nobel Prizes Recognition</h2>
+<section id="geoffrey-hinton-and-john-hopfield-physics" class="level3" data-number="9.4.1">
+<h3 data-number="9.4.1" class="anchored" data-anchor-id="geoffrey-hinton-and-john-hopfield-physics"><span class="header-section-number">9.4.1</span> Geoffrey Hinton and John Hopfield (Physics)</h3>
+</section>
+<section id="demis-hassabis-john-jumper-david-baker-chemistry" class="level3" data-number="9.4.2">
+<h3 data-number="9.4.2" class="anchored" data-anchor-id="demis-hassabis-john-jumper-david-baker-chemistry"><span class="header-section-number">9.4.2</span> Demis Hassabis, John Jumper, David Baker (Chemistry)</h3>
+</section>
+<section id="ais-contribution-to-scientific-discovery" class="level3" data-number="9.4.3">
+<h3 data-number="9.4.3" class="anchored" data-anchor-id="ais-contribution-to-scientific-discovery"><span class="header-section-number">9.4.3</span> AI’s contribution to scientific discovery</h3>
+</section>
+<section id="recognition-of-ais-fundamental-importance" class="level3" data-number="9.4.4">
+<h3 data-number="9.4.4" class="anchored" data-anchor-id="recognition-of-ais-fundamental-importance"><span class="header-section-number">9.4.4</span> Recognition of AI’s fundamental importance</h3>
+</section>
+</section>
+<section id="current-developments-and-challenges" class="level2" data-number="9.5">
+<h2 data-number="9.5" class="anchored" data-anchor-id="current-developments-and-challenges"><span class="header-section-number">9.5</span> Current Developments and Challenges</h2>
+<section id="multimodal-ai-systems-vision-text-audio" class="level3" data-number="9.5.1">
+<h3 data-number="9.5.1" class="anchored" data-anchor-id="multimodal-ai-systems-vision-text-audio"><span class="header-section-number">9.5.1</span> Multimodal AI systems (vision, text, audio)</h3>
+</section>
+<section id="ai-safety-and-alignment-research-intensification" class="level3" data-number="9.5.2">
+<h3 data-number="9.5.2" class="anchored" data-anchor-id="ai-safety-and-alignment-research-intensification"><span class="header-section-number">9.5.2</span> AI safety and alignment research intensification</h3>
+</section>
+<section id="regulatory-frameworks-development" class="level3" data-number="9.5.3">
+<h3 data-number="9.5.3" class="anchored" data-anchor-id="regulatory-frameworks-development"><span class="header-section-number">9.5.3</span> Regulatory frameworks development</h3>
+</section>
+<section id="societal-impact-and-adaptation" class="level3" data-number="9.5.4">
+<h3 data-number="9.5.4" class="anchored" data-anchor-id="societal-impact-and-adaptation"><span class="header-section-number">9.5.4</span> Societal impact and adaptation</h3>
+</section>
+<section id="artificial-general-intelligence-pursuit" class="level3" data-number="9.5.5">
+<h3 data-number="9.5.5" class="anchored" data-anchor-id="artificial-general-intelligence-pursuit"><span class="header-section-number">9.5.5</span> Artificial General Intelligence pursuit</h3>
+</section>
+<section id="compute-scaling-and-efficiency-improvements" class="level3" data-number="9.5.6">
+<h3 data-number="9.5.6" class="anchored" data-anchor-id="compute-scaling-and-efficiency-improvements"><span class="header-section-number">9.5.6</span> Compute scaling and efficiency improvements</h3>
+</section>
+</section>
+</section>
+<section id="current-frontiers-and-future-directions" class="level1" data-number="10">
+<h1 data-number="10"><span class="header-section-number">10</span> Current Frontiers and Future Directions</h1>
+<section id="technical-challenges" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="technical-challenges"><span class="header-section-number">10.1</span> Technical Challenges</h2>
+<section id="artificial-general-intelligence-agi-pursuit" class="level3" data-number="10.1.1">
+<h3 data-number="10.1.1" class="anchored" data-anchor-id="artificial-general-intelligence-agi-pursuit"><span class="header-section-number">10.1.1</span> Artificial General Intelligence (AGI) pursuit</h3>
+</section>
+<section id="causal-reasoning-and-world-models" class="level3" data-number="10.1.2">
+<h3 data-number="10.1.2" class="anchored" data-anchor-id="causal-reasoning-and-world-models"><span class="header-section-number">10.1.2</span> Causal reasoning and world models</h3>
+</section>
+<section id="continual-learning-and-catastrophic-forgetting" class="level3" data-number="10.1.3">
+<h3 data-number="10.1.3" class="anchored" data-anchor-id="continual-learning-and-catastrophic-forgetting"><span class="header-section-number">10.1.3</span> Continual learning and catastrophic forgetting</h3>
+</section>
+<section id="embodied-ai-and-robotics-integration" class="level3" data-number="10.1.4">
+<h3 data-number="10.1.4" class="anchored" data-anchor-id="embodied-ai-and-robotics-integration"><span class="header-section-number">10.1.4</span> Embodied AI and robotics integration</h3>
+</section>
+</section>
+<section id="emerging-paradigms" class="level2" data-number="10.2">
+<h2 data-number="10.2" class="anchored" data-anchor-id="emerging-paradigms"><span class="header-section-number">10.2</span> Emerging Paradigms</h2>
+<section id="neuro-symbolic-ai-hybrid-approaches" class="level3" data-number="10.2.1">
+<h3 data-number="10.2.1" class="anchored" data-anchor-id="neuro-symbolic-ai-hybrid-approaches"><span class="header-section-number">10.2.1</span> Neuro-symbolic AI hybrid approaches</h3>
+</section>
+<section id="quantum-computing-applications" class="level3" data-number="10.2.2">
+<h3 data-number="10.2.2" class="anchored" data-anchor-id="quantum-computing-applications"><span class="header-section-number">10.2.2</span> Quantum computing applications</h3>
+</section>
+<section id="brain-computer-interfaces" class="level3" data-number="10.2.3">
+<h3 data-number="10.2.3" class="anchored" data-anchor-id="brain-computer-interfaces"><span class="header-section-number">10.2.3</span> Brain-computer interfaces</h3>
+</section>
+<section id="neuromorphic-computing-architectures" class="level3" data-number="10.2.4">
+<h3 data-number="10.2.4" class="anchored" data-anchor-id="neuromorphic-computing-architectures"><span class="header-section-number">10.2.4</span> Neuromorphic computing architectures</h3>
+</section>
+</section>
+<section id="societal-considerations" class="level2" data-number="10.3">
+<h2 data-number="10.3" class="anchored" data-anchor-id="societal-considerations"><span class="header-section-number">10.3</span> Societal Considerations</h2>
+<section id="ai-governance-and-international-cooperation" class="level3" data-number="10.3.1">
+<h3 data-number="10.3.1" class="anchored" data-anchor-id="ai-governance-and-international-cooperation"><span class="header-section-number">10.3.1</span> AI governance and international cooperation</h3>
+</section>
+<section id="economic-disruption-and-job-displacement" class="level3" data-number="10.3.2">
+<h3 data-number="10.3.2" class="anchored" data-anchor-id="economic-disruption-and-job-displacement"><span class="header-section-number">10.3.2</span> Economic disruption and job displacement</h3>
+</section>
+<section id="privacy-and-surveillance-implications" class="level3" data-number="10.3.3">
+<h3 data-number="10.3.3" class="anchored" data-anchor-id="privacy-and-surveillance-implications"><span class="header-section-number">10.3.3</span> Privacy and surveillance implications</h3>
+</section>
+<section id="democratic-participation-in-ai-development" class="level3" data-number="10.3.4">
+<h3 data-number="10.3.4" class="anchored" data-anchor-id="democratic-participation-in-ai-development"><span class="header-section-number">10.3.4</span> Democratic participation in AI development</h3>
+</section>
+</section>
+</section>
+<section id="lessons-from-ai-history" class="level1" data-number="11">
+<h1 data-number="11"><span class="header-section-number">11</span> Lessons from AI History</h1>
+<section id="recurring-patterns" class="level2" data-number="11.1">
+<h2 data-number="11.1" class="anchored" data-anchor-id="recurring-patterns"><span class="header-section-number">11.1</span> Recurring Patterns</h2>
+<section id="hype-cycles-and-their-predictable-stages" class="level3" data-number="11.1.1">
+<h3 data-number="11.1.1" class="anchored" data-anchor-id="hype-cycles-and-their-predictable-stages"><span class="header-section-number">11.1.1</span> Hype cycles and their predictable stages</h3>
+</section>
+<section id="importance-of-hardware-software-co-evolution" class="level3" data-number="11.1.2">
+<h3 data-number="11.1.2" class="anchored" data-anchor-id="importance-of-hardware-software-co-evolution"><span class="header-section-number">11.1.2</span> Importance of hardware-software co-evolution</h3>
+</section>
+<section id="value-of-interdisciplinary-collaboration" class="level3" data-number="11.1.3">
+<h3 data-number="11.1.3" class="anchored" data-anchor-id="value-of-interdisciplinary-collaboration"><span class="header-section-number">11.1.3</span> Value of interdisciplinary collaboration</h3>
+</section>
+<section id="role-of-data-availability-in-progress" class="level3" data-number="11.1.4">
+<h3 data-number="11.1.4" class="anchored" data-anchor-id="role-of-data-availability-in-progress"><span class="header-section-number">11.1.4</span> Role of data availability in progress</h3>
+</section>
+</section>
+<section id="what-history-teaches-us" class="level2" data-number="11.2">
+<h2 data-number="11.2" class="anchored" data-anchor-id="what-history-teaches-us"><span class="header-section-number">11.2</span> What History Teaches Us</h2>
+<section id="patience-with-long-term-research-programs" class="level3" data-number="11.2.1">
+<h3 data-number="11.2.1" class="anchored" data-anchor-id="patience-with-long-term-research-programs"><span class="header-section-number">11.2.1</span> Patience with long-term research programs</h3>
+</section>
+<section id="danger-of-overpromising-and-underdelivering" class="level3" data-number="11.2.2">
+<h3 data-number="11.2.2" class="anchored" data-anchor-id="danger-of-overpromising-and-underdelivering"><span class="header-section-number">11.2.2</span> Danger of overpromising and underdelivering</h3>
+</section>
+<section id="importance-of-robust-evaluation-metrics" class="level3" data-number="11.2.3">
+<h3 data-number="11.2.3" class="anchored" data-anchor-id="importance-of-robust-evaluation-metrics"><span class="header-section-number">11.2.3</span> Importance of robust evaluation metrics</h3>
+</section>
+<section id="need-for-diverse-perspectives-and-approaches" class="level3" data-number="11.2.4">
+<h3 data-number="11.2.4" class="anchored" data-anchor-id="need-for-diverse-perspectives-and-approaches"><span class="header-section-number">11.2.4</span> Need for diverse perspectives and approaches</h3>
+</section>
+</section>
+<section id="preparing-for-the-future" class="level2" data-number="11.3">
+<h2 data-number="11.3" class="anchored" data-anchor-id="preparing-for-the-future"><span class="header-section-number">11.3</span> Preparing for the Future</h2>
+<section id="building-resilient-research-institutions" class="level3" data-number="11.3.1">
+<h3 data-number="11.3.1" class="anchored" data-anchor-id="building-resilient-research-institutions"><span class="header-section-number">11.3.1</span> Building resilient research institutions</h3>
+</section>
+<section id="fostering-responsible-ai-development" class="level3" data-number="11.3.2">
+<h3 data-number="11.3.2" class="anchored" data-anchor-id="fostering-responsible-ai-development"><span class="header-section-number">11.3.2</span> Fostering responsible AI development</h3>
+</section>
+<section id="maintaining-human-agency-and-control" class="level3" data-number="11.3.3">
+<h3 data-number="11.3.3" class="anchored" data-anchor-id="maintaining-human-agency-and-control"><span class="header-section-number">11.3.3</span> Maintaining human agency and control</h3>
+</section>
+<section id="ensuring-broad-societal-benefit" class="level3" data-number="11.3.4">
+<h3 data-number="11.3.4" class="anchored" data-anchor-id="ensuring-broad-societal-benefit"><span class="header-section-number">11.3.4</span> Ensuring broad societal benefit</h3>
+</section>
+</section>
+</section>
+<section id="conclusion" class="level1" data-number="12">
+<h1 data-number="12"><span class="header-section-number">12</span> Conclusion</h1>
+<section id="ais-remarkable-journey" class="level2" data-number="12.1">
+<h2 data-number="12.1" class="anchored" data-anchor-id="ais-remarkable-journey"><span class="header-section-number">12.1</span> AI’s Remarkable Journey</h2>
+<section id="from-philosophical-speculation-to-practical-reality" class="level3" data-number="12.1.1">
+<h3 data-number="12.1.1" class="anchored" data-anchor-id="from-philosophical-speculation-to-practical-reality"><span class="header-section-number">12.1.1</span> From philosophical speculation to practical reality</h3>
+</section>
+<section id="exponential-acceleration-in-recent-decades" class="level3" data-number="12.1.2">
+<h3 data-number="12.1.2" class="anchored" data-anchor-id="exponential-acceleration-in-recent-decades"><span class="header-section-number">12.1.2</span> Exponential acceleration in recent decades</h3>
+</section>
+<section id="unprecedented-potential-and-challenges-ahead" class="level3" data-number="12.1.3">
+<h3 data-number="12.1.3" class="anchored" data-anchor-id="unprecedented-potential-and-challenges-ahead"><span class="header-section-number">12.1.3</span> Unprecedented potential and challenges ahead</h3>
+</section>
+</section>
+<section id="the-road-ahead" class="level2" data-number="12.2">
+<h2 data-number="12.2" class="anchored" data-anchor-id="the-road-ahead"><span class="header-section-number">12.2</span> The Road Ahead</h2>
+<section id="continued-technical-progress-expectations" class="level3" data-number="12.2.1">
+<h3 data-number="12.2.1" class="anchored" data-anchor-id="continued-technical-progress-expectations"><span class="header-section-number">12.2.1</span> Continued technical progress expectations</h3>
+</section>
+<section id="importance-of-wisdom-alongside-intelligence" class="level3" data-number="12.2.2">
+<h3 data-number="12.2.2" class="anchored" data-anchor-id="importance-of-wisdom-alongside-intelligence"><span class="header-section-number">12.2.2</span> Importance of wisdom alongside intelligence</h3>
+</section>
+<section id="need-for-thoughtful-human-guidance" class="level3" data-number="12.2.3">
+<h3 data-number="12.2.3" class="anchored" data-anchor-id="need-for-thoughtful-human-guidance"><span class="header-section-number">12.2.3</span> Need for thoughtful human guidance</h3>
+</section>
+<section id="ai-as-a-tool-for-human-flourishing" class="level3" data-number="12.2.4">
+<h3 data-number="12.2.4" class="anchored" data-anchor-id="ai-as-a-tool-for-human-flourishing"><span class="header-section-number">12.2.4</span> AI as a tool for human flourishing</h3>
+
+
+</section>
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div></div></section></div> ]]></description>
+  <guid>https://vivekdeulkar.github.io/blog/posts/history-of-ai/</guid>
+  <pubDate>Wed, 28 May 2025 18:30:00 GMT</pubDate>
+</item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Vivek Deulkar</dc:creator>
